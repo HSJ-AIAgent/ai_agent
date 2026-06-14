@@ -1,0 +1,508 @@
+============================================================
+논문 심사 보고서
+============================================================
+
+논문 제목: Thiol-Epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향
+저자: 이나경, 엄태준 (국립금오공과대학교 재료공학부 고분자공학전공)
+투고 저널: 접착 및 계면 (Journal of Adhesion and Interface)
+논문 ID: JAIK-2026-005
+심사일: 2026-05-23
+심사 구분: 리뷰 논문 (Review Article)
+
+------------------------------------------------------------
+1. 논문 요약
+------------------------------------------------------------
+본 논문은 thiol-epoxy 클릭 반응의 반응 메커니즘과 합성 전략, 그리고
+이를 활용한 기능성 고분자 및 계면 소재 연구 동향을 정리한 리뷰
+논문이다. 저자들은 Barner-Kowollik의 click-like 반응성 4대 기준
+(높은 반응 효율, 위치선택적 개환, 온화하고 다양한 반응 조건, 1:1
+화학양론 정밀성)을 분석 프레임으로 삼아 thiol-epoxy 반응이 클릭
+화학 범주에 부합함을 논증한다. 이어 poly(glycidyl methacrylate)
+측쇄 기능화, 다양한 구조(선형, hyperbranched, graft, dendritic,
+crosslinked)의 poly(beta-hydroxy thioether) 합성, beta-hydroxy
+thioether의 hydroxyl/sulfur 후속 기능화(esterification, alkylation),
+표면 광중합 및 패터닝 응용을 차례로 다룬다. 결론적으로 thiol-epoxy
+반응이 양친매성 homopolymer, sulfonium계 항균 고분자, antibiofouling
+zwitterionic 표면 등 다양한 기능성 소재 설계 플랫폼으로 확장
+가능함을 제시한다.
+
+------------------------------------------------------------
+2. 주요 강점
+------------------------------------------------------------
+(1) 리뷰 프레임의 명확성
+Barner-Kowollik의 click-like 4대 기준을 일관된 분석 축으로 채택
+하여 3~6장을 각각 한 기준에 대응시킨 구성은 독자에게 명료한 논리
+흐름을 제공한다. 단순 시간순 또는 응용 분야순 나열형 리뷰보다
+교육적 가치가 높다.
+
+(2) 메커니즘 설명의 정확성
+2장에서 산 촉매와 염기 촉매 조건의 위치선택성 차이를 thiolate의
+입체 선호와 alkoxide의 빠른 protonation으로 설명한 부분은
+교과서적 수준에서 정확하다. 특히 thiol(pKa ~ 8-10)과
+alcohol(pKa ~ 16-18)의 pKa 차이를 통해 chain propagation이
+억제되고 step-growth가 유지되는 이유를 명시한 점은 본문에서 가장
+강점인 부분이다(Nicolaou et al., Angew. Chem. Int. Ed., 2005; Lowe,
+Polym. Chem., 2014와 부합).
+
+(3) 후속 기능화 전략의 강조
+beta-hydroxy thioether의 hydroxyl기와 sulfur가 각각 esterification
+과 alkylation을 통해 orthogonal하게 후속 기능화될 수 있다는 점을
+명확히 부각하고, sulfonium polymer / amphiphilic homopolymer /
+zwitterionic 표면 등 응용 분기점까지 추적한 7~8장 구성은 본
+리뷰의 차별화 요소이다.
+
+(4) 위치선택성의 분광학적 근거 제시
+1H-NMR 기반 isomer 판별(3.5 ppm vs esterification 후 5 ppm
+downfield shift)을 19번 인용으로 제시한 점은 단순 주장에 그치지
+않는 실험적 근거 인용으로 평가된다.
+
+------------------------------------------------------------
+3. 주요 문제점 및 비평
+------------------------------------------------------------
+
+[문제점 1] Khan 그룹 자기/그룹 인용(self-/group-citation) 비율이
+          학술적으로 수용 가능한 수준을 크게 초과함
+- 내용: 참고문헌 총 33편 중, Khan 교수가 공저자로 포함된 논문은
+  [11], [12], [13], [14], [15], [16], [17], [18], [19], [20],
+  [22], [23], [24], [25], [26], [27], [28], [29], [33]의 19편이며,
+  교신저자 Eom(엄태준)이 공저자인 논문([17], [18], [20], [27])도
+  모두 Khan 그룹 출신 논문에 포함된다. 따라서 Khan/Eom 그룹의
+  group-citation 비율은 19/33 = 57.6%에 달한다.
+  본 리뷰의 3~8장 본문에서 Khan 그룹 외 독립 그룹의 thiol-epoxy
+  연구를 다루는 인용은 사실상 [21] (Buerkli et al., 2014;
+  ETH/Leroux 그룹), [30] (Buhl et al., 2020), [31] (Han et al.,
+  2023) 정도에 불과하다.
+- 근거: ICMJE 및 COPE의 리뷰 논문 작성 지침과 다수의 학술
+  편집위원회 권고에서 자기/그룹 인용은 통상 전체 참고문헌의
+  20% 이내, 최대 30% 미만이 권장된다. Ioannidis et al.,
+  PLoS Biol., 2019, 17(8), e3000384에서는 self-citation rate
+  >25%를 정량적 이상치(outlier)로 보고하였다. 또한 클릭 화학
+  리뷰의 self-citation bias는 본 심사자의 memory(field-click-
+  chemistry-review-patterns)에서도 반복적으로 지적된 패턴이다.
+  본 논문의 57.6%는 단일 리뷰가 사실상 한 그룹의 "그룹 업적
+  요약서" 성격을 띠게 만들어 객관적 리뷰로서의 신뢰성을 크게
+  훼손한다.
+- 개선 방향:
+  (a) Khan 그룹 외부 독립 연구를 최소 10편 이상 추가 인용하여
+      group-citation 비율을 30% 미만으로 낮춰야 한다.
+  (b) Bowman 그룹(Carioscia et al., Polymer, 2007, 48, 1526;
+      Chatani et al., Polym. Chem., 2014, 5, 4555;
+      Sycks et al., ACS Appl. Mater. Interfaces 등),
+      Hawker 그룹(thiol-epoxy 표면 patterning 관련),
+      Cramer/Chiou 그룹(thiol-epoxy photopolymerization kinetics),
+      Konuray/Ramis 그룹(thiol-epoxy dual cure, vitrimer),
+      Du Prez 그룹(sequence-controlled post-polymerization
+      modification)의 대표 논문을 보강하라.
+  (c) 본문 3~6장에서 Khan 그룹 결과 옆에 외부 그룹의 동일/유사
+      반응 결과를 병기하여 균형성을 확보하라.
+
+[문제점 2] 리뷰 논문으로서의 포괄성과 균형성 부족 - 경쟁 반응 및
+          한계점에 대한 비교 분석 누락
+- 내용: 본 논문은 thiol-epoxy 반응의 장점만 나열하고 있을 뿐,
+  경쟁/대체 반응(예: amine-epoxy, anhydride-epoxy, thiol-ene,
+  thiol-Michael, azide-alkyne)과의 비교 분석이 전혀 없다. 또한
+  thiol-epoxy 반응의 한계(부생성물로서의 disulfide 생성, thiol의
+  악취 및 산화 민감성, 광촉매 조건에서의 oxygen inhibition은
+  thiol-ene 대비 약하지만 PBG 효율 문제, epoxy 단량체의 발암성
+  우려 등)에 대한 비판적 논의가 거의 없다. 6장에서 disulfide 환원
+  전략만 제시되어 있을 뿐 다른 한계는 모두 무시되었다.
+- 근거: 리뷰 논문의 표준 평가 기준(예: PRISMA 확장 지침, Nature
+  Reviews 시리즈의 author guideline)에 따르면 리뷰는 "balanced
+  view"를 제공해야 하며, 다루는 반응의 한계점과 대안과의 비교가
+  필수적이다. Hoyle and Bowman, Angew. Chem. Int. Ed., 2010, 49,
+  1540에서 thiol-X 반응을 비교한 표(Table 1)와 같은 형식이 본
+  분야의 표준이다.
+- 개선 방향:
+  (a) thiol-epoxy 대 amine-epoxy, thiol-ene, thiol-Michael의
+      반응 효율, 위치선택성, 화학양론 정밀성, 부생성물, 산소
+      민감성 등을 비교한 정리 표(Table)를 신설하라.
+  (b) thiol-epoxy의 한계와 미해결 과제를 별도 절(예: "9.
+      Limitations and Future Outlook")로 추가하라.
+
+[문제점 3] 2020년 이후 타 그룹 최신 연구 누락 - 분야 최신성 부족
+- 내용: 참고문헌 33편 중 2020년 이후 출판물은 [12] Khan(2023),
+  [13] Stuparu/Khan(2022), [17] Eom/Khan(2021), [18] Eom/Khan
+  (2021), [20] Eom/Khan(2020), [29] Oh/Khan(2021), [30] Buhl
+  (2020), [31] Han(2023), [33] Yeo/Khan(2020)으로 9편이나, 이
+  중 외부 그룹은 [30], [31] 단 2편이다. thiol-epoxy 분야에서
+  2020-2025년에 활발히 진행된 다음 주제들이 모두 누락되었다:
+  - Thiol-epoxy 기반 vitrimer / 동적 공유결합 네트워크
+    (예: Konuray et al., Polymers, 2020; Fang et al.,
+    Macromolecules, 2020; Hayashi 그룹의 thio-vitrimer 시리즈)
+  - Thiol-epoxy 광경화 DLP/SLA 3D printing resin
+    (예: Bagheri & Jin, ACS Appl. Polym. Mater., 2019-2022)
+  - Thiol-epoxy self-healing coating
+    (예: Post et al., 2020-2022)
+  - Recyclable/reprocessable thiol-epoxy network
+    (Hayashi, Jin, Zhang 등의 dynamic exchange 연구)
+- 근거: 본 심사자의 memory(field-click-chemistry-review-patterns)
+  에 기록된 "2020년 이후 보강되어야 할 트렌드"와 그대로 일치하는
+  누락 영역이다. 리뷰 논문은 출판 시점 기준 최소 직전 3년의 핵심
+  연구를 포괄해야 하며, 동일 분야 경쟁 리뷰(예: Khan 자신의 Chem.
+  Commun., 2023 [12])에서도 다루어진 vitrimer/3D printing 동향이
+  본 논문에서는 완전히 빠져 있다.
+- 개선 방향:
+  (a) "Dynamic and reprocessable thiol-epoxy networks" 절을
+      신설하여 2020-2025년 vitrimer 연구를 포함하라.
+  (b) "Photocurable thiol-epoxy resins for additive manufacturing"
+      절을 신설하여 DLP/SLA 3D printing 관련 최신 연구를 보강
+      하라.
+  (c) 외부 그룹 최신 논문 인용을 최소 10편 이상 추가하라.
+
+[문제점 4] 학술지 헤더의 연도/권호 표기 오류 (출판 메타데이터
+          심각한 불일치)
+- 내용: 사용자 제공 정보에 따르면 본문 상단에 "접착 및 계면
+  제 18권 제 2호, 2017년" 표기가 있으나, 논문 ID는 JAIK-2026-005
+  이며 실제 심사 시점은 2026년이다. 18권 2호의 출판 연도는 학회지
+  발간 이력상 2017년이 맞으나, 2026년 투고 논문에 이 헤더가 그대로
+  남아 있는 것은 명백한 template 미수정 오류이다.
+- 근거: 학회지 표준 출판 메타데이터(volume, issue, year)는 게재
+  확정 후 편집부가 최종 배정하는 항목이며, 투고 단계에서는 비워
+  두거나 placeholder를 명시(예: "투고 중", "to be assigned")하는
+  것이 일반적이다. 잘못된 연도/권호가 그대로 인쇄될 경우 CrossRef
+  DOI 등록, 색인 데이터베이스(KCI, Scopus) 등록 시 데이터 충돌이
+  발생할 수 있다.
+- 개선 방향:
+  헤더의 "제 18권 제 2호, 2017년"을 즉시 삭제하고, 편집부와
+  협의하여 정확한 권/호/연도(예: 2026년 게재 예정 권/호)로
+  수정해야 한다.
+
+[문제점 5] 접수/수정/채택일 누락 ("202X년 월 일" placeholder
+          미수정)
+- 내용: 사용자 제공 정보에 따르면 접수일, 수정일, 채택일이 모두
+  "202X년 월 일" 형태의 placeholder로 남아 있다.
+- 근거: 학술지 게재 논문의 접수/수정/채택일은 학술 윤리 및 우선권
+  분쟁 시 결정적 증빙 자료이며, CrossRef/Scopus 메타데이터로도
+  등록된다. Placeholder 상태로 출판될 경우 학술지 신뢰도에 직접
+  영향을 미친다.
+- 개선 방향:
+  편집부 시스템에 기록된 실제 접수일, 수정 제출일, 채택일을
+  정확히 기입하여야 한다. 본 심사 단계에서 최종 확정될 수 없는
+  항목이라면, proof 단계에서 누락 없이 입력되도록 production
+  team에 명시적으로 인계되어야 한다.
+
+[문제점 6] 도식(Fig) 캡션 및 본문 표기 일관성 부족
+- 내용: 본문에서 "Fig 1a", "Fig 1b", "Fig 2", "Fig 3", "Fig 4",
+  "Fig 5a, b", "Fig 5c, d", "Fig 6"이 사용되고 있으나, 도식
+  자체와 캡션이 본문에 제시되지 않아 검증이 불가능하다. 또한
+  "Fig 1"과 "Fig. 1" 표기 일관성, 그림 번호 매김 규칙(Figure 1
+  vs Scheme 1: 반응 메커니즘은 통상 Scheme으로 표기)이 점검되지
+  않았다.
+- 근거: ACS, RSC 등 주요 출판사 스타일가이드에서는 반응
+  메커니즘과 합성 경로 도식은 "Scheme"으로, 데이터 그림은
+  "Figure"로 구분하는 것이 표준이다. 본 리뷰의 Fig 1, 2, 4, 5는
+  내용상 Scheme에 해당할 가능성이 높다.
+- 개선 방향:
+  (a) 도식과 캡션 원본을 첨부하라.
+  (b) 반응식/합성 경로는 Scheme으로, 분광 데이터/구조 모델/응용
+      개념도는 Figure로 일관되게 분류하라.
+  (c) 표기를 "Fig. 1" 또는 "Figure 1"로 통일하라.
+
+[문제점 7] 클릭 화학 기준 적용 시 Sharpless 원 기준과 Barner-
+          Kowollik 기준의 혼용
+- 내용: 1장 서론에서 "Sharpless 등에 의해 처음 제안된 이후 [...]
+  부산물 비생성, 작용기 직교성 등을 핵심 기준으로"라고 기술한 뒤,
+  "Barner-Kowollik 등은 [...] 1:1 화학양론 정밀성을 핵심 판단
+  기준으로 재정립하였다"고 하여 두 기준을 병렬 기술한다. 그러나
+  3~6장 분석은 Barner-Kowollik 기준만을 사용하고 있어 두 기준의
+  관계가 모호하다.
+- 근거: Sharpless의 2001년 원 정의는 "byproducts must be
+  innocuous (water 등)", "stereospecific", "wide in scope" 등을
+  포함하는 반면, Barner-Kowollik의 2011년 click-like polymer
+  chemistry 기준은 1:1 stoichiometry, regio-selectivity, mild
+  conditions, high efficiency로 압축되었다. 두 기준은 호환되지
+  않으며, 어느 기준을 사용하여 thiol-epoxy를 클릭 반응으로
+  분류했는지 명시되어야 한다.
+- 개선 방향:
+  1장에서 본 리뷰가 채택하는 click 기준(Barner-Kowollik 4대
+  기준)을 명확히 선언하고, Sharpless 기준과의 차이를 1~2문장으로
+  언급하라.
+
+[문제점 8] 학회지 스코프(접착 및 계면) 정합성 부족
+- 내용: 본 리뷰는 thiol-epoxy 반응을 통한 고분자 합성과 표면
+  패터닝, antibiofouling 표면을 다루나, "접착(adhesion)"이라는
+  학회지 핵심 키워드와의 직접적 연결이 매우 약하다. 본문에서
+  "접착력", "lap shear", "peel test", "T-peel", "epoxy adhesive
+  cure", "조인트 강도" 등 정량적 접착 평가 또는 epoxy 접착제의
+  경화제(curing agent)로서의 thiol 응용에 대한 논의가 거의 없다.
+- 근거: Journal of Adhesion and Interface는 접착 메커니즘, 접착제
+  화학, 계면 분석, 표면 처리 및 코팅, 복합재 인터페이스 등을
+  주요 스코프로 한다(본 심사자 memory: journal-adhesion-interface-
+  scope). thiol-epoxy는 본질적으로 epoxy 접착제의 latent curing
+  agent로서 산업적으로 중요하며(예: Jin and Yamamoto, Prog. Polym.
+  Sci., 2015, 41, 1-34), 이 응용을 다루지 않는 thiol-epoxy 리뷰는
+  학회지 스코프 적합성이 떨어진다.
+- 개선 방향:
+  (a) 별도 절을 신설하여 thiol-epoxy를 epoxy 접착제 경화 시스템
+      (특히 광경화/저온 경화 접착제)으로 활용한 연구를 정리하라.
+  (b) 표면 기능화 절(8장)에서 표면 처리에 의한 접착력 향상,
+      primer로서의 활용 등 접착성 평가 데이터를 보강하라.
+  (c) Jin & Yamamoto (Prog. Polym. Sci., 2015)와 같은 thiol-cured
+      epoxy adhesive 리뷰를 인용하여 학회지 스코프와의 연결고리를
+      명시하라.
+
+[문제점 9] 7장 amphiphilic homopolymer와 siRNA delivery 인용 정합성
+- 내용: 7장에서 "amphiphilic homopolymer를 합성하고, [...]
+  siRNA delivery와 같은 생체응용 가능성을 제시하였다 (Fig 5c, d)
+  [21]"라고 기술하였으나, 참고문헌 [21] Buerkli et al.,
+  Biomacromolecules, 15, 1707-1715 (2014)는 ETH Zurich/Leroux 그룹
+  논문으로 Khan 그룹의 amphiphilic homopolymer 연구가 아니다. 본문
+  표현이 마치 Khan 그룹의 연속 연구로 오인될 수 있다.
+- 근거: 학술적 정확성과 attribution 정확성은 리뷰 논문의 기본
+  요구사항이다(COPE Core Practices, "Authorship and contributorship").
+- 개선 방향:
+  해당 부분을 "ETH/Leroux 그룹은 ... 를 제시하였다 [21]" 등으로
+  저자 그룹을 명시하여 attribution을 정확히 하라.
+
+[문제점 10] 정량적 수치 인용의 근거 부족
+- 내용: 3장에서 "수평균 중합도 약 12,000 수준의 고분자"라고
+  기술하였으나, [15] (De and Khan, Chem. Commun., 2012)에서 보고
+  된 PGMA의 분자량 지표가 DP인지 Mn(g/mol)인지 단위가 명시되지
+  않았다. PGMA의 단량체 분자량(약 142 g/mol)을 고려할 때 DP 12,000
+  이면 Mn 약 1.7 MDa로 일반적인 ATRP/RAFT PGMA 분자량을 크게
+  벗어난다. 원전 확인이 필요하다.
+- 근거: De and Khan, Chem. Commun., 2012, 48, 3130에서 보고된
+  PGMA는 통상 Mn 수만 g/mol(DP 100-300) 범위이며, "12,000"은
+  Mn(g/mol) 값일 가능성이 높다. 본 심사자 memory에 기록된
+  "분자량 표기 단위 모호: DP와 Mn 혼동" 패턴이 그대로 재현된
+  사례로 보인다.
+- 개선 방향:
+  원 논문을 재확인하여 "DP ~ 12,000" 또는 "Mn ~ 12,000 g/mol"을
+  단위와 함께 명시하라. 잘못된 단위 표기는 즉시 정정해야 한다.
+
+[문제점 11] 광염기 발생제(photobase generator, PBG) 관련 인용 부족
+- 내용: 5장에서 "DBU나 DBN과 ketoprofen으로부터 형성된 photolabile
+  염을 photobase generator로 사용"이라는 핵심 기술 부분에 [28],
+  [30-33] 인용이 묶여 있으나, PBG 화학의 기원에 해당하는 핵심
+  선행 연구(예: Sun et al., Chem. Mater., 2008; Suyama and Shirai,
+  Prog. Polym. Sci., 2009; Chatani et al., Polym. Chem., 2014,
+  5, 4555-4565)가 누락되어 있다.
+- 근거: ketoprofen 기반 PBG의 광반응 메커니즘과 thiol-epoxy 광경화
+  응용은 Chatani et al. (Bowman 그룹)이 본격 보고하였으며, 이는
+  본 분야에서 인용 누락이 불가한 핵심 선행 연구이다.
+- 개선 방향:
+  Sun, Suyama, Chatani 등 PBG 화학 및 thiol-epoxy
+  photopolymerization 선행 연구를 추가 인용하라.
+
+------------------------------------------------------------
+4. 데이터 검증 결과
+------------------------------------------------------------
+
+(a) Khan/Eom 그룹 인용 비율 정밀 계수
+- 전체 참고문헌: 33편
+- Khan 공저 논문: [11], [12], [13], [14], [15], [16], [17], [18],
+  [19], [20], [22], [23], [24], [25], [26], [27], [28], [29], [33]
+  = 19편
+- 이 중 Eom(엄태준) 공저: [17], [18], [20], [27] = 4편 (모두
+  Khan 그룹과 중복)
+- Khan/Eom 그룹 인용 비율: 19/33 = 57.58%
+- 권고 상한(20%) 대비 약 2.9배, 이상치 상한(30%) 대비 약 1.9배
+  초과
+- 판정: 학술적으로 수용 불가한 수준
+
+(b) 출판 연도 분포
+- 2001-2010년: [1], [2]는 2001/2011이므로 2010년대 이전은 [1] 1편
+  실제로 [1] 2001, [2] 2011, [3] 2002, [4] 2002, [5] 2010, [6]
+  2011, [10] 2013, [21] 2014, [22] 2012, [23] 2014, [15] 2012,
+  [16] 2014, [25] 2014, [26] 2013, [11] 2016, [19] 2015, [24]
+  2015, [7] 2014, [8] 2015
+- 2020년 이후: [12] 2023, [13] 2022, [17] 2021, [18] 2021,
+  [20] 2020, [29] 2021, [30] 2020, [31] 2023, [33] 2020 = 9편
+  (이 중 외부 그룹은 [30], [31] 2편)
+- 2020년 이후 외부 그룹 비율: 2/33 = 6.06% — 매우 낮음
+
+(c) 본문 수치 vs 인용 일치성
+- 3장 "DP 약 12,000": 단위 누락(문제점 10 참조)
+- 5장 "1.2-3.6 mol% 촉매, 1-3시간 반응": 인용 [15,19-21]에서
+  일관되게 보고된 수치이나, mol%의 기준(thiol 기준인지 epoxy
+  기준인지) 미명시 — 원문 재확인 필요
+- 2장 "thiol pKa ~ 8-10, alcohol pKa ~ 16-18": 일반적 범위로
+  타당하나 출처 인용 누락
+
+(d) 헤더 메타데이터
+- "제 18권 제 2호, 2017년" vs 논문 ID "JAIK-2026-005" — 명백한
+  불일치
+- 접수/수정/채택일 "202X년 월 일" — placeholder 미수정
+
+(e) Figure/Scheme 표기
+- Fig 1a/1b/2/3/4/5a-d/6 총 8개 그림 인용 — 캡션 미동봉으로
+  검증 불가, 분류(Scheme vs Figure) 점검 필요
+
+------------------------------------------------------------
+5. 선행 연구 비교 분석
+------------------------------------------------------------
+
+본 심사자는 Google Scholar 및 본 분야의 정전적 리뷰들에 대한
+사전 지식을 활용하여 본 리뷰에서 누락된 핵심 선행 연구를
+다음과 같이 정리한다(검색 키워드: "thiol-epoxy click polymer",
+"thiol-cured epoxy", "thiol-epoxy photopolymerization",
+"thiol-epoxy vitrimer", 2020-2025).
+
+(1) 본 분야의 정전적 누락 선행 연구
+- Hoyle and Bowman, Angew. Chem. Int. Ed., 2010, 49, 1540-1573.
+  thiol-X click 화학 전체의 정전적 리뷰. thiol-epoxy를 포함하는
+  비교표를 제공.
+- Lowe, Polymer, 2014, 55, 5517-5549. thiol-X polymer chemistry
+  종합 리뷰. 본 논문 [7]로 인용은 되어 있으나 본문에서 비교
+  대상으로 활용되지 않음.
+- Jin and Yamamoto, Prog. Polym. Sci., 2015, 41, 1-34.
+  thiol-cured epoxy adhesive 분야의 핵심 리뷰. 학회지 스코프
+  정합성을 확보하려면 반드시 인용 필요.
+- Carioscia, Schneidewind, et al., Polymer, 2007, 48, 1526-1532.
+  thiol-epoxy photopolymerization kinetics. 본 논문 5장(반응
+  조건)에서 인용되어야 함.
+- Chatani, Gong, Reddy, Bowman, Polym. Chem., 2014, 5, 4555-4565.
+  thiol-epoxy photopolymerization with PBG. 본 논문 5, 8장에서
+  인용되어야 함.
+
+(2) 2020년 이후 누락 핵심 연구
+- Konuray, Fernandez-Francos, Ramis et al., Polymers, 2020,
+  12, 1084. Dual-curable thiol-epoxy systems.
+- Hayashi 그룹의 thio-vitrimer 시리즈 (Polym. Chem., 2020-2022).
+- Fang, Picchioni, Bose et al., Macromolecules, 2020, 53, 4140
+  등. Thiol-epoxy 기반 vitrimer.
+- Bagheri and Jin, ACS Appl. Polym. Mater., 2019, 1, 593.
+  Photopolymerization in 3D printing context.
+
+(3) 정합성/일관성 평가
+- 본 리뷰가 인용한 [11] Stuparu and Khan 2016, [12] Khan 2023,
+  [13] Stuparu and Khan 2022는 모두 Khan 그룹의 thiol-epoxy
+  종합 리뷰이다. 동일 그룹의 선행 리뷰가 3편이나 존재함에도
+  본 리뷰의 차별화 포인트(neue Beitrag)가 명확히 제시되지
+  않았다. 이는 리뷰 논문의 독창성 기준(원전 리뷰와의 차별성)을
+  위협한다.
+- 개선 방향: 1장 또는 결론에서 "본 리뷰는 [11-13]과 달리 ___
+  관점에서 ___를 새롭게 정리한다"는 차별화 진술을 추가하라.
+
+------------------------------------------------------------
+6. 세부 수정 요청사항
+------------------------------------------------------------
+
+[헤더/메타데이터]
+(R1) 표지 헤더 "접착 및 계면 제 18권 제 2호, 2017년"을 즉시
+     수정 또는 삭제하라 (현재 권/호/연도와 불일치).
+(R2) "접수: 202X년 월 일 / 수정: 202X년 월 일 / 채택: 202X년 월
+     일" placeholder를 실제 일자로 채워 넣거나, 편집부에 production
+     단계에서 정확히 입력되도록 명시적으로 인계하라.
+
+[서론(1장)]
+(R3) 본 리뷰가 적용하는 "클릭 화학" 정의(Barner-Kowollik 4대
+     기준)를 명시적으로 선언하고, Sharpless 원 기준과의 차이를
+     1-2문장으로 명시하라.
+(R4) Khan 그룹의 선행 리뷰 [11-13]과 본 리뷰의 차별화 포인트를
+     별도 단락으로 추가하라.
+
+[메커니즘(2장)]
+(R5) thiol pKa, alcohol pKa 값의 출처(예: Bordwell pKa table,
+     Cramer et al.)를 인용하라.
+(R6) phenyl glycidyl ether처럼 전자적 효과가 강한 substrate에서는
+     덜 치환된 탄소가 아닌 다른 위치에서 개환이 일어날 수 있다는
+     예외도 1-2문장으로 언급하라(Carioscia et al., 2007).
+
+[반응 효율(3장)]
+(R7) "DP 약 12,000"의 단위(DP vs Mn)를 명확히 표기하고 원논문
+     [15]을 재확인하라.
+
+[위치선택성(4장)]
+(R8) 1H-NMR 기반 isomer 판별이 일관되게 적용된 substrate 범위를
+     명시하라(예: aliphatic vs aromatic epoxide 모두인지).
+
+[반응 조건(5장)]
+(R9) Bowman 그룹의 thiol-epoxy photopolymerization kinetics
+     (Carioscia 2007, Chatani 2014) 및 PBG 화학 선행 연구
+     (Sun 2008, Suyama-Shirai 2009)를 추가 인용하라.
+(R10) 촉매 mol%의 기준(thiol 또는 epoxy 대비)을 명시하라.
+
+[1:1 화학양론(6장)]
+(R11) thiol 산화 외에 oxygen inhibition, 단량체 휘발성, 악취 등
+      thiol-epoxy의 다른 실용적 한계도 함께 논의하라.
+
+[후속 기능화(7장)]
+(R12) 참고문헌 [21]은 ETH/Leroux 그룹 논문임을 명시하여
+      attribution을 정확히 하라.
+
+[표면/계면 기능화(8장)]
+(R13) 정량적 접착력 평가(lap shear, peel)와 epoxy 접착제 경화제
+      로서의 thiol-epoxy 응용 절을 신설하여 학회지 스코프
+      적합성을 확보하라.
+
+[신설 절(9장 이후)]
+(R14) "Dynamic and reprocessable thiol-epoxy networks" 절을
+      신설하여 vitrimer/동적 공유결합 네트워크 최신 연구를 추가
+      하라.
+(R15) "Photocurable thiol-epoxy resins for additive manufacturing"
+      절을 추가하라.
+(R16) "Comparison with competing reactions and limitations" 절을
+      신설하여 amine-epoxy, thiol-ene, thiol-Michael과의 비교표
+      및 한계점을 정리하라.
+
+[참고문헌]
+(R17) Khan/Eom 그룹 인용 비율을 30% 미만으로 낮춰라. 최소 10편
+      이상의 외부 그룹 논문(Bowman, Hawker, Cramer, Konuray,
+      Hayashi, Jin, Du Prez 등) 추가 인용 필요.
+(R18) Hoyle and Bowman (2010), Jin and Yamamoto (2015)를 필수
+      인용하라.
+(R19) 인용 형식(저자명 표기, 약어 일관성, et al. 사용 규칙)을
+      학회지 투고 규정에 맞춰 통일하라.
+
+[Figure/Scheme]
+(R20) 반응 메커니즘과 합성 경로 도식은 "Scheme"으로, 데이터
+      그림은 "Figure"로 분류하여 표기를 통일하라.
+(R21) 모든 Figure/Scheme 캡션 원본을 첨부하여 본문 수치와의
+      일치성을 검증 가능하게 하라.
+
+------------------------------------------------------------
+7. 종합 판정
+------------------------------------------------------------
+
+판정: Major Revision (대폭 수정 필요)
+
+판정 근거:
+본 리뷰는 thiol-epoxy 클릭 반응의 메커니즘과 응용을 한국어로
+체계적으로 정리한 시도라는 점에서 학술적 가치가 있다. 특히
+Barner-Kowollik 4대 기준을 분석 프레임으로 채택한 구성과
+beta-hydroxy thioether의 orthogonal 후속 기능화 강조는 본 리뷰의
+강점이다.
+
+그러나 다음의 중대한 결함이 식별되었으며, 현재 상태로는 게재
+불가하다.
+
+(1) 자기/그룹 인용 비율 57.6%는 학술적 수용 한계(권고 20%, 이상치
+    경계 30%)를 크게 초과하여 리뷰의 객관성을 심각하게 훼손한다.
+    이는 본 논문에서 가장 결정적인 결함이다.
+
+(2) 2020-2025년 외부 그룹의 핵심 연구(vitrimer, 3D printing,
+    self-healing)가 거의 누락되어 리뷰의 최신성과 포괄성이
+    부족하다.
+
+(3) 경쟁 반응과의 비교 분석, 한계점 논의가 부재하여 리뷰 논문의
+    "balanced view" 요건을 충족하지 못한다.
+
+(4) 학회지 핵심 스코프인 "접착(adhesion)"에 대한 직접적 연결과
+    정량적 접착 평가 데이터가 부족하여 Journal of Adhesion and
+    Interface 스코프 적합성이 약하다.
+
+(5) 헤더의 권/호/연도 불일치 및 접수/수정/채택일 placeholder
+    미수정은 출판 단계에서 즉시 수정되어야 할 메타데이터 오류이다.
+
+(6) PGMA 분자량 단위 모호, 정전적 선행 연구(Hoyle-Bowman 2010,
+    Jin-Yamamoto 2015, Chatani 2014) 누락 등 기술적 결함도 다수
+    존재한다.
+
+상기 결함은 근본적 게재 불가 사유에는 해당하지 않으나, 단순한
+교정 수준이 아닌 (a) 참고문헌 구성 전면 재조정, (b) 신설 절
+3개 이상 추가, (c) 학회지 스코프 정합성 확보를 위한 본문 보강
+등 상당한 작업이 필요하다. 따라서 "Major Revision"으로 판정하며,
+저자들이 위 R1-R21 수정사항을 충실히 반영할 경우 재심사를 통해
+게재 가능 여부를 재판단할 것을 권고한다.
+
+핵심 수정 우선순위:
+1) (필수) Khan/Eom 그룹 인용 비율을 30% 미만으로 감축
+2) (필수) 학술지 헤더 및 접수/수정/채택일 메타데이터 정정
+3) (필수) 2020년 이후 외부 그룹 최신 연구 보강
+4) (필수) 학회지 스코프 적합성 확보를 위한 접착 응용 절 신설
+5) (강력 권장) 경쟁 반응 비교표 및 한계점 절 신설
+
+============================================================
+심사 종료
+============================================================

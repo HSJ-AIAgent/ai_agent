@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "input_encoding": "utf-8",
+  "output_dir": "./output",
+  "log_level": "INFO",
+  "max_rows": 10000
+}
