@@ -1,0 +1,11 @@
+# 작업 메모
+
+- data.csv 전처리 로직 수정 필요 (공백 처리)
+- utils.py format_date 함수 엣지케이스 테스트 안 됨
+- config.json output_dir 경로 확인 필요
+- 다음 주 배포 예정
+
+TODO:
+- [ ] 단위 테스트 작성
+- [ ] 로깅 추가
+- [ ] README 작성

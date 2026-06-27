@@ -1,0 +1,7 @@
+네이버 developers //
+
+Client ID : KyloLFWOKJTnY1mBHNuj
+Client Secret : JNdtcDap7a
+
+https://developers.naver.com/docs/serviceapi/datalab/search/search.md
+

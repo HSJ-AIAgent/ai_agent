@@ -1,0 +1,583 @@
+
+
+ 
+†
+Corresponding author: Taejun Eom (taejuneom@kumoh.ac.kr)   
+Thiol-Epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향 
+ 
+이나경∙엄태준
+† 
+ 
+국립금오공과대학교 재료공학부 고분자공학전공 
+(202X년 월 일 접수, 202X년 월 일 수정, 202X년 월 일 채택 학회작성) 
+Research Trends in Thiol–Epoxy Click Chemistry for Polymer Synthesis and 
+Interface Materials
+ 
+ 
+Nagyeong Lee · Taejun Eom† 
+ 
+ 
+ 
+ 
+Department of Polymer Science and Engineering, Kumoh National Institute of Technology (KIT), Gumi 39177, Republic of Korea 
+(Recived , 202X; Revised , 202X; Accepted , 202X 학회작성) 
+ 
+요  약: Thiol–epoxy 클릭 반응은 염기 촉매 조건에서  thiol분자가  epoxy기를 개환하여 β-
+hydroxy  thioether 구조를 형성하는 결합 반응으로, 고분자 합성과  post-polymerization 
+modification에 폭넓게 활용되고 있다. Poly(glycidyl methacrylate)(PGMA)의 측쇄 기능화부터 선
+형, hyperbranched, graft, dendritic, 가교 구조  poly(β-hydroxy thioether)의 합성에 이르기까지 본 
+반응은 반응 효율, 위치선택성, 화학양론 정밀성, 반응 조건 등 클릭 화학의 주요 기준을 통
+해 그 활용 가능성이 검증되어 왔으며, 특히 표면 광중합 및 패터닝 응용 분야에서 활발히 
+연구되고 있다. 또한 β-hydroxy thioether 구조의  hydroxyl group과  thioether sulfur는  esterification
+과  alkylation을 통해 후속 기능화가 가능하며, 이를 통해  cationic sulfonium polymer, 양친매성 
+homopolymer, 항생물부착성  zwitterionic 표면 패턴 등 다양한 기능성 소재가 보고되어 왔다. 
+본 리뷰에서는  thiol–epoxy 클릭 반응의 반응 메커니즘과 합성 전략을 살펴보고, 이를 활용
+한 기능성 고분자 및 계면 소재 연구 동향을 정리하였다. 
+ 
+Abstract: The thiol–epoxy click reaction, in which a thiol nucleophile opens the epoxide ring under base 
+catalysis to form a β-hydroxy thioether linkage, has been widely employed in polymer synthesis and post-
+polymerization modification. From side-chain functionalization of poly(glycidyl methacrylate) (PGMA) to 
+the synthesis of poly(β-hydroxy thioether)s with linear, hyperbranched, graft, dendritic, and crosslinked 
+architectures, this reaction has demonstrated its synthetic utility through the key click chemistry criteria 
+such as reaction efficiency, regio-selectivity, stoichiometric precision, and mild reaction conditions, with 
+particularly active research in the areas of surface photopolymerization and patterning. Moreover, the 
+hydroxyl  group  and  thioether  sulfur  of  the  β-hydroxy  thioether  linkage  allow  for  sequential  post-
+functionalization via esterification and alkylation, enabling the construction of diverse functional materials 
+including cationic sulfonium polymers, amphiphilic homopolymers, and antibiofouling zwitterionic surface 
+patterns. This review summarizes the reaction mechanism and synthetic strategies of the thiol–epoxy click 
+reaction, along with recent research trends in its application to functional polymer and interfacial materials. 
+Keywords: Thiol-epoxy click chemistry, Ring-opening reaction, Post-polymerization 
+modification, Step-growth polymerization 
+ 
+ 
+
+이나경 ∙ 엄태준 
+ 
+ 
+1. 서 론 
+클릭 화학은  Sharpless 등에 의해 처음 제안된 이
+후[1], 높은 수율과 선택성, 온화한 반응 조건, 부
+산물 비생성, 작용기 직교성(orthogonality) 등을 핵
+심 기준으로 하는 결합 형성 전략으로 자리매김해 
+왔다. 이후  Barner-Kowollik 등은 고분자 합성에 
+적용 가능한  click-like 반응성을 보다 엄밀히 평가
+하기 위해 높은 반응 효율, 위치선택성, mild하고 
+다양한 반응 조건, 1:1 화학양론 정밀성을 핵심 판
+단 기준으로 재정립하였다[2]. 이러한 기준에 부합
+하는  azide–alkyne  cycloaddition[3,4],  thiol–ene 반응
+[5], Diels–Alder 반응[6] 등은 고분자 합성 및  post-
+polymerization modification 분야에서 폭넓게 응용되
+고 있다[7-10].  Thiol–epoxy 반응 역시 이 범주에 
+부합하는 반응으로 최근 주목받고 있다[11-14]. 
+Thiol–epoxy 클릭 반응은 높은  ring  strain과 
+torsional strain을 갖는  three-membered cyclic ether 구
+조인  epoxy기의 개환 반응을 기반으로 하며, thiol
+기와의 반응을 통해  β-hydroxy thioether 구조를 형
+성한다[11,12]. 본 반응은 높은 원자 경제성과 부
+산물 비생성이라는 특성을 가지며, 염기 촉매 조
+건에서 위치선택성과 반응 효율, 화학양론 정밀성 
+측면에서  click-like 반응성을 보인다. 
+이러한 반응 특성을 바탕으로  thiol–epoxy 클릭 
+반응은 고분자 화학 전반에 걸쳐 폭넓게 활용되어 
+왔다.  Glycidyl 기반 고분자의  post-polymerization 
+modification[15-21], A
+2
+/B
+2
+ 또는  AB 단량체 기반의 
+단계성장 중합[22-29], 하이드로겔 및 가교 네트워
+크 형성, 표면 패터닝 등[28-33] 다양한 응용에서 
+본 반응의 유용성이 보고되었다. 특히 생성물 내 
+hydroxyl   group과   thioether 결합은 각각 
+esterification 및  sulfur alkylation을 통한 후속 기능
+화에 활용될 수 있어, 단일 결합 형성을 넘어 다
+기능성 고분자 구조 설계로 이어질 수 있다는 점
+에서 주목할 만하다. 
+본 리뷰에서는  thiol–epoxy 클릭 반응을 중심으
+로 반응 메커니즘과 주요 분자적 특성을 간략히 
+살펴보고, 이를 고분자 기능화, 중합 및 네트워크 
+형성, 표면 및 계면 기능화에 활용한 연구 동향을 
+정리하고자 한다. 특히 앞서 제시한  click-like 반응
+성의 네 가지 기준—높은 반응 효율, 위치선택적 
+개환, mild하고 다양한 반응 조건, 1:1 화학양론 정
+밀성—을 중심으로  thiol–epoxy 반응의  click 화학
+적 특성을 검토하고, 이어 후속 기능화를 통한 기
+능성 고분자 및 계면 소재 설계 플랫폼으로서의 
+활용 가능성을 논의한다. 
+Scheme 1. Thiol–epoxy reaction mechanism and post-functionalization of β-hydroxy thioether. The thiolate-mediated 
+epoxy ring-opening produces β-hydroxy thioether, which can be further modified through esterification of the hydroxyl 
+group or alkylation of the thioether sulfur. 
+
+Thiol-epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향 
+ 
+                                                                                                                                               
+접착 및 계면 제  18권 제  2호, 2017년 
+2. Thiol-epoxy 클릭 반응 메커니즘 
+Thiol–epoxy 클릭 반응은  thiol기와  epoxy기 사이
+의 개환 반응을 통해 β-hydroxy thioether 구조를 형
+성하는 반응이다.  Epoxy 화합물은 높은  ring  strain
+과  torsional strain을 갖는  three-membered cyclic ether 
+구조로, 이러한 구조적 불안정성이 친핵체 공격에 
+의한 개환을 용이하게 하는 주된 요인이다. 
+Scheme  1은  thiol-epoxy 개환반응의 반응 경로와 
+생성된 β-hydroxy thioether의 후속 기능화 가능성
+을 개략적으로 나타낸다.  
+Thiol–epoxy 반응은 산 및 염기 촉매 조건 모두
+에서 진행될 수 있으나, 두 조건에서의 반응 경로
+는 상이하다. 산 촉매 조건에서는  epoxy 산소의 
+양성자화가 먼저 일어나며, 보다 치환된 탄소에 
+양전하 성격이 축적되어 해당 위치에서 친핵체 공
+격이 유도된다. 반면 염기 촉매 조건에서는  epoxy
+가 중성 상태로 존재하기 때문에 강한 친핵체인 
+thiolate anion의 공격이 우세하며, 입체장애가 작은 
+덜 치환된 탄소에서 선택적으로 개환이 일어난다. 
+이러한 반응 경로의 차이가 염기 촉매 조건에서의 
+높은 위치선택성으로 이어지며, thiol–epoxy 반응이 
+클릭 화학으로 분류될 수 있는 중요한 근거 중 하
+나가 된다.  
+염기 촉매 조건에서의 구체적인 반응 경로를 살
+펴보면, 먼저  thiol이 염기에 의해  deprotonation되
+어  thiolate  anion으로 전환되고, 생성된  thiolate 
+anion이  epoxy기의 덜 치환된 탄소를 공격하면서 
+epoxy ring이 열리며  alkoxide 중간체가 형성된다. 
+이  alkoxide는  anionic ring-opening polymerization으
+로 전파되지 않고, 주변  thiol 또는 촉매의 
+conjugate acid로부터  proton을 받아  hydroxyl group
+으로 빠르게 전환된다. 이는  thiol의  pK
+a
+(~ 8–10)가 
+alcohol의  pKₐ(~ 16–18)보다 현저히 낮아, alkoxide가 
+thiol로부터  proton을 받는 과정이 열역학적으로 
+유리하기 때문이다. 결과적으로 전체 반응은 
+thiolate-mediated  ring-opening  addition과  proton 
+transfer가 반복되는 방식으로 진행되며, epoxy기의 
+연쇄적 중합 없이  β-hydroxy thioether 구조가 선택
+적으로 형성된다. 
+3. 높은 반응 효율 
+Thiol–epoxy 클릭 화학의 대표적인 특성 중 하나
+는 높은 반응 효율이다. 본 반응은 단순 저분자 
+모델 반응뿐 아니라 고분자 반응에서도 높은 전환
+율을 나타내며, 이는 클릭 반응의 기준을 충족시
+키는 요소로 평가된다. 특히  glycidyl 기반 고분자
+에서는 반복단위 수준의 기능화가 가능하며, 고분
+자 사슬 내에 매우 많은  epoxy기가 존재하더라도 
+반응이 효율적으로 진행될 수 있다. 
+Khan 그룹은  poly(glycidyl  methacrylate)를 이용한 
+Figure  1.  Polymer  functionalization  and  poly(β-hydroxy  thioether)  synthesis  via  thiol–epoxy  reaction.  (a)  Post-
+polymerization modification of poly(glycidyl methacrylate) with various thiols. (b) Step-growth polymerization of dithiol 
+and diepoxy monomers to form poly(β-hydroxy thioether). Reproduced with permission from Ref. 15, De, S. et al., Chem. 
+Commun., 2012, 48, 3130. © 2012, Royal Society of Chemistry; Ref. 22, Brändle, A. et al., Polym. Chem., 2012, 3, 3224. 
+© 2012, Royal Society of Chemistry. 
+
+이나경 ∙ 엄태준 
+Journal of Adhesion and Interface Vol. 18, No. 2. 2017 
+ 
+연구에서, 수평균 중합도 약  12,000 수준의 고분자
+에서도  epoxy 반복단위가 상온에서 수 시간 내에 
+모두  β-hydroxy thioether 구조로 전환될 수 있음을 
+보고하였다. 이는 고분자 사슬 하나당 수천 개 이
+상의 반복 반응이 필요한 조건에서도  thiol–epoxy 
+반응이 높은 효율을 유지할 수 있음을 보여준다
+(Fig  1a)[15]. 또한  thiol–epoxy 반응은  post-
+polymerization  modification에만 국한되지 않으며, 
+단계성장 중합에도 효과적으로 적용될 수 있다. 
+Diepoxide와  dithiol간  thiol-epoxy 클릭 반응을 통
+해  poly(β-hydroxy  thioether)를 합성하였으며, 높은 
+기능기 전환율을 바탕으로 비교적 높은 중합도의 
+고분자를 얻을 수 있음을 보고하였다(Fig  1b)[22]. 
+더 나아가  AB형 단량체를 이용한  thiol–epoxy 
+polymerization을 통해 고분자량  poly(β-hydroxy 
+thioether)의 합성이 가능함도 보고되었다[23]. 
+Thiol–epoxy 클릭 반응의 적용 범위는 선형 고분
+자를 넘어 보다 복잡한 구조로도 확장된다.  Tri-
+epoxide 기반  scaffold를 이용한  dendrimer 합성에
+서 짧은 시간 내 높은 전환율이 보고되었으며[24], 
+poly(glycidyl  methacrylate)와 고분자성  thiol 전구체
+를 이용한 높은  grafting  density의  bottlebrush 
+copolymer 합성도 제시되었다[16]. 또한 
+corannulene과 같이  bulky하고 강직한 방향족 구조
+도  thiol–epoxy 클릭 반응을 통해 고분자 측쇄에 
+효과적으로 도입될 수 있음이 보고된 바 있다
+[17,18]. 이처럼 높은 전환율, 빠른 반응 속도, 낮
+은 부반응, 그리고 입체장애에 대한 상대적 비민
+감성은  thiol–epoxy 클릭 반응이 클릭 화학으로 분
+류될 수 있는 중요한 근거로 작용한다. 
+4. 위치선택적 개환 특성 
+앞서 메커니즘 측면에서 살펴본 바와 같이, 비
+대칭  epoxy 화합물의  ring-opening에서는 이론적으
+로 두 가지 위치 이성질체가 형성될 수 있으나, 
+염기 촉매 조건에서는 입체장애가 작은 덜 치환된 
+탄소에서  sulfur가 결합한 단일 위치 이성질체가 
+선택적으로 형성된다(Fig  2)[19]. 이러한 위치선택
+성이 다양한 분자 구조에서 실제로 유지되는지는 
+1
+H-NMR 분석을 통해 실험적으로 검증되었으며, 
+이는  thiol–epoxy 반응을  click 화학으로 분류할 수 
+있는 중요한 실험적 근거를 제공한다. 
+구체적으로, 비대칭  epoxy 구조에서 형성 가능
+한 두 위치 이성질체를 비교하고, hydroxyl group의 
+esterification 전후  proton  signal 변화를 추적함으로
+써 생성물 구조를 분석하였다[19]. Sulfur가 덜 치
+환된 탄소에 결합한  isomer I의 경우  2차  hydroxyl 
+group에 인접한  proton이  3.5 ppm 이상에서 관찰되
+며,  esterification 이후  5  ppm 이상으로 크게 
+downfield shift한다. 반면  sulfur가 보다 치환된 탄
+Figure 2. Possible regio-isomers formed by thiol–epoxy 
+ring-opening. Reproduced with permission from Ref. 19, 
+Gadwal, I. et al., Polym. Chem., 2015, 6, 1393. © 2015, 
+Royal Society of Chemistry. 
+Figure 3. 
+1
+H-NMR analysis of thiol–epoxy regio-isomers 
+before and after esterification. Regio-isomer I shows a 
+clear downfield shift after esterification. Regio-isomer II 
+shows limited chemical shift change after esterification. 
+Reproduced with permission from Ref. 19, Gadwal, I. et 
+al., Polym. Chem., 2015, 6, 1393. © 2015, Royal Society 
+of Chemistry. 
+
+Thiol-epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향 
+ 
+                                                                                                                                               
+접착 및 계면 제  18권 제  2호, 2017년 
+소에 결합한  isomer  II에서는 해당  proton이 
+hydroxyl  group과 직접 인접하지 않기 때문에 
+esterification 이후에도 큰  chemical  shift 변화가 나
+타나지 않는다(Fig 3)[19]. 
+이러한 
+1
+H-NMR 기반 분석은 단순 모델 반응에
+만 국한되지 않고, 선형 고분자,  hyperbranched 
+polymer,  side-chain 기능화 고분자,  chain-end 및 
+mid-chain 기능화 고분자, dendrimer 합성에서도 일
+관되게 적용되었다[24-27]. Khan 그룹은 다양한 분
+자 구조에서 두 번째 위치 이성질체가 관찰되지 
+않았다고 보고하였으며, 이를 바탕으로 염기 촉매 
+thiol–epoxy 반응이 다양한 분자 구조에서 사실상 
+단일 위치 이성질체를 형성하는  regio-selective 반
+응임을 제시하였다. 이는  thiol–epoxy 클릭 반응이 
+높은 반응 효율뿐 아니라 구조 정밀성까지 갖춘 
+반응임을 보여주며, 고분자 기능화 및 계면 소재 
+설계에서 구조 균일성과 재현성을 확보하는 데 중
+요한 의미를 가진다. 
+5. 온화하고 다양한 반응 조건 
+Thiol–epoxy 클릭 반응은 다양한 용매 및 염기 
+촉매 조건에서 수행될 수 있으며, 이는 본 반응의 
+활용성을 뒷받침하는 중요한 요소이다. 보고된 바
+에 따르면  10% aqueous tetrahydrofuran (THF)용매에
+서  lithium  hydroxide(LiOH)를 촉매로 사용하는 조
+건이 가장 우수한 결과를 나타내며,  1.2–3.6  mol% 
+수준의 촉매 사용량과  1–3시간 이내의 반응 시간
+에서 정량적 전환율이 보고되었다[15,19-21]. 이 외
+에도  triethylamine(TEA),  1-methylimidazole(NMI), 
+1,8-diazabicycloundec-7-ene(DBU) 등 다양한 염기가 
+촉매로 활용될 수 있으며, 전구체의 용해도에 따
+라 물, dimethyl sulfoxide(DMSO), acetonitrile(MeCN) 
+등의 용매 선택이 가능하다[12]. 또한  DBU나  1,5-
+Diazabicyclo[4.3.0]non-5-ene(DBN)과  ketoprofen으로
+부터 형성된  photolabile 염을  photobase generator로 
+사용하면, 광조사에 의해 염기를  in situ로 발생시
+킬 수 있어  thiol–epoxy 반응을 광제어 조건에서 
+수행하는 것도 가능하다. 이러한 조건의 유연성은 
+thiol–epoxy 반응이 하이드로겔 합성, 표면 패터닝 
+등 다양한 응용으로 확장될 수 있는 실용적 기반
+을 제공한다[28,30-33]. 
+6. 1:1 화학양론 정밀성 
+높은 반응 효율과 위치선택성과 함께, 클릭 반
+응으로서의 또 다른 핵심 기준은 기능기 간의 정
+밀한 화학양론 제어이다. 특히  thiol–epoxy 반응에
+서는  thiol기와  epoxy기가 등몰 조건에서 효율적으
+로 반응할 수 있는지가  click-like 반응성을 판단하
+는 중요한 요소가 된다[2]. 
+그러나 기존  thiol–epoxy 반응에서는 자유  thiol
+이 공기 중 산화에 의해  disulfide를 형성할 수 있
+다는 문제가 있었다. 이 경우 일부  thiol 전구체가 
+반응 전에 소모되므로, 실제 반응에서는  thiol을 
+과량 사용하였으며, 이는 엄밀한 등몰 화학양론 
+조건에서의 반응 제어를 어렵게 하며,  thiol–epoxy 
+반응을 클릭 반응으로 활용하기 위해 해결해야 할 
+요소로 인식되어 왔다. 
+이를 해결하기 위해  disulfide를 전구체로 사용
+Figure 4. In situ disulfide activation strategy for stoichiometric thiol–epoxy reaction. Disulfide precursors are reduced 
+by sodium borohydride to generate thiolate nucleophiles under equimolar conditions. 
+
+이나경 ∙ 엄태준 
+Journal of Adhesion and Interface Vol. 18, No. 2. 2017 
+ 
+하고, sodium borohydride 환원을 통해  thiolate anion
+을  in situ로 생성하는 전략이 제시되었다(Fig 4)[20]. 
+이 접근은  thiol의 산화 문제를 억제하고,  thiol–
+epoxy 클릭 반응을 엄격한  1:1 화학양론 조건에서 
+수행할 수 있게 한다. 따라서  disulfide activation 전
+략은  thiol–epoxy 반응의  click-like 특성을 보다 엄
+밀하게 뒷받침하는 중요한 근거이다. 
+7. 후속 기능화 및 고분자 구조 설계 
+ 앞서 살펴본 바와 같이,  thiol–epoxy 반응의 생성
+물인  β-hydroxy  thioether 구조는  hydroxyl  group과 
+thioether 결합을 동시에 포함한다. 이 두 작용기는 
+서로 다른 화학 변환에 독립적으로 활용될 수 있
+다는 점에서, thiol–epoxy 반응은 단순한 결합 형성 
+반응을 넘어 후속 기능화를 위한 플랫폼 반응으로 
+사용될 수 있다. Hydroxyl group은  esterification을 
+통해 다양한 기능기를 도입할 수 있으며, thioether 
+내  sulfur 중심은  alkylation을 통해  sulfonium 구조
+로 전환될 수 있다. 
+이러한  orthogonal 기능화 전략은 다양한 기능성 
+고분자 설계로 이어졌다. Diepoxide와  dithiol간의 
+단계중합을 통해 선형  poly(β-hydroxy  thioether)를 
+먼저 합성한 뒤, hydroxyl group의  esterification과 
+sulfur alkylation을 순차적으로 진행하여 양이온성 
+poly(β-hydroxy sulfonium) 구조를 제조하였다. 특히 
+두 반응의 진행 순서를 조절함으로써  cation과 
+lipophilic chain이 같은 반복단위에 위치하는  same-
+centered 구조와 서로 분리된  segregated 구조를 선
+택적으로 설계할 수 있음이 제시되었으며, 이러한 
+구조적 차이가 항균 활성에도 영향을 미칠 수 있
+음이 보고되었다(Fig 5a, b)[29]. 
+한편  poly(glycidyl  methacrylate)는  epoxy 기의 
+chemical stability 덕분에 저장 중 자가 가교가 일어
+나지 않아 장기 보관이 가능하며, 이는  thiol–epoxy 
+반응의  scaffold로서 갖는 본질적 장점 중 하나이
+다[12]. 이러한  epoxy-containing polymer scaffold에서
+는  thiol–epoxy 기능화 이후 새로 생성된  hydroxyl 
+group을 이용한  esterification을 순차적으로 수행함
+으로써, 각 반복단위에 두 종류의 기능기를 동시
+에 배치할 수 있으며, 이는 두 기능기의 함량과 
+배치가  batch마다 달라질 수 있는  random 
+copolymer 방식과 달리, 모든 반복단위에 동일한 
+구조가 정밀하게 보존된다는 점에서 차별화된다. 
+이러한 접근을 통해  amphiphilic homopolymer를 합
+Figure 5. Post-functionalization of β-hydroxy thioether scaffolds for functional polymer design. (a) Synthesis of same-
+centered and segregated poly(β-hydroxy sulfonium) structures. (b) Antibacterial activity of sulfonium polymers. (c) 
+Poly(glycidyl methacrylate)-based amphiphilic homopolymer design. (d) Amphiphilic homopolymer library for siRNA 
+delivery. Reproduced with permission from Ref. 29, Oh, J. et al., Biomacromolecules, 2021, 22, 3534. © 2021, American 
+Chemical Society; Ref. 21, Buerkli, C. et al., Biomacromolecules, 2014, 15, 1707. © 2014, American Chemical Society. 
+
+Thiol-epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향 
+ 
+                                                                                                                                               
+접착 및 계면 제  18권 제  2호, 2017년 
+성하고, 하나의 반복단위에  cationic  group과 
+hydrophobic alkyl chain을 함께 배치함으로써  siRNA 
+delivery와 같은 생체응용 가능성을 제시하였다
+(Fig 5c, d)[21]. 이처럼  β-hydroxy thioether scaffold의 
+후속 기능화 전략은 항균성  sulfonium  polymer, 
+amphiphilic homopolymer, 생체응용 고분자 등 다양
+한 기능성 소재 설계로 확장될 수 있으며, 이는 
+thiol–epoxy 클릭 화학의 핵심적인 장점 중 하나로 
+평가된다. 
+8. 표면 및 계면 기능화 
+ 지금까지 논의한  thiol–epoxy 반응의 특성—높
+은 반응 효율, 위치선택성, 후속 기능화 가능성—
+은 벌크 고분자 합성에만 국한되지 않으며, 표면 
+및 계면 기능화에도 효과적으로 적용될 수 있다.  
+기판 위에  epoxy기를 포함하는 코팅층 또는 고
+분자  brush를 형성한 뒤  thiol 화합물과 반응시키
+면, epoxy 개환 반응을 통해 표면에 다양한 기능기
+를 효율적으로 도입할 수 있으며, 다작용성  thiol
+과  epoxy 단량체를 이용하면 표면 상에서 직접 
+cross-linked poly(β-hydroxy thioether) network를 형성
+하는 것도 가능하다[30-33]. 
+특히 주목할 만한 접근은  photobase generator를 
+활용한  thiol–epoxy  photopolymerization 전략이다
+[32,33].
+ 
+빛에 의해 염기 촉매가 생성되면  thiol의 
+deprotonation이 유도되고, 생성된  thiolate anion이 
+epoxy기를 공격하여  cross-linked  poly(β-hydroxy 
+thioether) network를 형성한다. 이러한 광제어 반응
+은  micro- 또는  nano-pattern 형성에 적용될 수 있
+으며, 표면의 공간적 기능화를 가능하게 한다는 
+점에서 기존 표면 처리 방법과 차별화된다. 
+형성된  network 또는  micro-pattern은 이후  sulfur 
+alkylation을 통해  sulfonium 구조로 전환될 수 있
+으며, carboxylate를 포함하는  alkylating reagent를 사
+용하면  sulfonium/carboxylate  zwitterionic 구조가 형
+성되어 단백질 흡착을 억제하는  antibiofouling 특
+성을 나타낼 수 있다(Fig  6)[33]. 이와 같이  thiol–
+epoxy 클릭 반응 기반 표면 기능화는 반응 효율, 
+위치선택성, 광제어 가능성, 후속 기능화 가능성을 
+동시에 활용할 수 있다는 점에서, 기능성 코팅, 바
+이오인터페이스, 항균 표면,  antibiofouling 표면 등 
+다양한 계면 소재 설계에 적합한 화학적 플랫폼으
+로 평가된다. 
+Figure 6. Zwitterionic antibiofouling surfaces prepared by post-functionalization of thiol–epoxy micro-patterns. (a) 
+Sulfur alkylation of thioether micro-patterns to form sulfonium/carboxylate zwitterionic surfaces. (b) Antibiofouling 
+behavior of the zwitterionic surface against protein adsorption. Reproduced with permission from Ref. 33, Yeo. H et al., 
+J. Am. Chem. Soc., 2020, 142, 3479. © 2020, American Chemical Society. 
+
+이나경 ∙ 엄태준 
+Journal of Adhesion and Interface Vol. 18, No. 2. 2017 
+ 
+9. 결론 
+본 리뷰에서는  thiol–epoxy 클릭 반응의 주요 
+분자적 특성과 이를 활용한 고분자 및 계면 소재 
+연구 동향을 정리하였다. Thiol–epoxy 클릭 반응은 
+epoxy기의 높은  ring strain과  torsional strain에서 비
+롯된 구조적 불안정성을 기반으로 진행되며, 염기 
+촉매 조건에서  thiolate anion의 친핵성 개환 반응
+을 통해  β-hydroxy thioether 구조를 선택적으로 형
+성한다. 특히 생성된  alkoxide 중간체가  pK
+a
+ 차이
+에 기반한  proton transfer를 통해 빠르게  quenching
+됨으로써   epoxy기의   anionic   ring-opening 
+polymerization이 억제되고, thiol–epoxy addition 반응
+이 우세하게 진행된다.   
+이러한 메커니즘적 특성을 바탕으로  thiol–
+epoxy 클릭 반응은 높은 반응 효율, 위치선택적 
+개환, mild하고 다양한 반응 조건, 1:1 화학양론 정
+밀성이라는 클릭 화학의 핵심 기준을 충족한다. 
+높은 전환율과 빠른 반응 속도는  glycidyl 기반 고
+분자의   post-polymerization   modification과 
+diepoxide/dithiol 기반 단계성장 중합 모두에서 확
+인되었으며, 염기 촉매 조건에서의 단일 위치 이
+성질체 형성은 
+1
+H-NMR 분석을 통해 다양한 분자 
+구조에서 일관되게 검증되었다. 이와 더불어  10% 
+aqueous THF /LiOH를 비롯한 다양한 용매·촉매 조
+합 및  photobase generator 기반 광제어 조건에서의 
+수행 가능성은 본 반응의 실용적 활용 범위를 폭
+넓게 확장시킨다. 또한  disulfide 기반  in  situ 
+activation 전략은  thiol의 산화 문제를 해소하고 엄
+격한 등몰 조건에서의 반응을 가능하게 함으로써, 
+thiol–epoxy 클릭 반응의 화학양론 정밀성을 보다 
+엄밀하게 뒷받침한다. 
+나아가 반응 후 생성되는 β-hydroxy thioether 구
+조는  hydroxyl  group의  esterification과  thioether 
+sulfur의  alkylation을 통한  orthogonal 후속 기능화
+가 가능하여,  amphiphilic  homopolymer, 항균성 
+sulfonium  polymer, 생체응용 고분자,  antibiofouling 
+표면 등 다양한 기능성 소재 설계로 확장될 수 있
+다. 이처럼  thiol–epoxy 클릭 반응은 높은 반응 효
+율, 구조 정밀성, 후속 기능화 플랫폼으로서의 가
+능성을 동시에 갖춘 반응으로서, 기능성 고분자 
+및 계면 소재 설계를 위한 유용한 화학적 플랫폼
+으로 자리매김할 것으로 기대된다. 
+감사의 글 
+본 연구는 국립금오공과대학교 대학 연구과제비
+(2024–2026)와  2026년도 교육부 및 경상북도의 재
+원으로 경북RISE센터의 지원을 받아 수행된 지역
+혁신중심 대학지원체계(RISE)-(지역성장 혁신  LAB)
+의 지원을 받아 수행되었습니다. (2026-rise-15-105) 
+참 고 문 헌 
+1. K. B. Sharpless, H. C. Kolb, and M. G. Finn, Angew. 
+Chem. Int. Ed., 40, 2004–2021 (2001).   
+2. C. Barner-Kowollik, F. E. Du Prez, P. Espeel, C. J. 
+Hawker, T. Junkers, H. Schlaad, and W. Van Camp, 
+Angew. Chem. Int. Ed., 50, 60–62 (2011).   
+3. V. V. Rostovtsev, L. G. Green, V. V. Fokin, and K. B. 
+Sharpless, Angew. Chem. Int. Ed., 41, 2596–2599 
+(2002).   
+4. C. W. Tornøe, C. Christensen, and M. Meldal, J. Org. 
+Chem., 67, 3057–3064 (2002).   
+5. M. J. Kade, D. J. Burke, and C. J. Hawker, J. Polym. 
+Sci. Part A: Polym. Chem., 48, 743–750 (2010).   
+6. M. A. Tasdelen, Polym. Chem., 2, 2133–2145 (2011). 
+7. A. B. Lowe, Polymer, 55, 5517–5549 (2014).   
+8. P. Espeel and F. E. Du Prez, Macromolecules, 48, 2–
+14 (2015).   
+9. Z. Geng, J. J. Shin, Y. Xi, and C. J. Hawker, J. Polym. 
+Sci., 59, 963–1042 (2021).   
+10. K. A. Günay, P. Theato, and H. A. Klok, J. Polym. 
+Sci. Part A: Polym. Chem., 51, 1–28 (2013).   
+11. M. C. Stuparu and A. Khan, J. Polym. Sci. Part A: 
+Polym. Chem., 54, 3057–3070 (2016).   
+12.  A.  Khan,  Chem.  Commun.,  59,  11028–11044 
+(2023).   
+13. M. C. Stuparu and A. Khan, J. Macromol. Sci. Part 
+A: Pure Appl. Chem., 59, 2–13 (2022).   
+14. E. M. Muzammil, A. Khan, and M. C. Stuparu, RSC 
+Adv., 7, 55874–55884 (2017).   
+15. S. De and A. Khan, Chem. Commun., 48, 3130–
+3132 (2012).   
+16.  I.  Gadwal,  J.  Rao,  J.  Baettig,  and  A.  Khan, 
+Macromolecules, 47, 35–40 (2014).   
+17. T. Eom, V. Barat, A. Khan, and M. C. Stuparu, 
+Chem. Sci., 12, 4949–4957 (2021).   
+18. V. Barat, T. Eom, A. Khan, and M. C. Stuparu, 
+Polym. Chem., 12, 5209–5215 (2021).   
+19. I. Gadwal, M. C. Stuparu, and A. Khan, Polym. 
+Chem., 6, 1393–1404 (2015).   
+20. T. Eom and A. Khan, Chem. Commun., 56, 7419–
+7422 (2020).   
+
+Thiol-epoxy 클릭 화학 기반 고분자 합성 및 계면 소재 연구 동향 
+ 
+                                                                                                                                               
+접착 및 계면 제  18권 제  2호, 2017년 
+21. C. Buerkli, S. H. Lee, E. Moroz, M. C. Stuparu, J.-
+C. Leroux, and A. Khan, Biomacromolecules, 15, 
+1707–1715 (2014). 
+22. A. Brändle and A. Khan, Polym. Chem., 3, 3224–
+3227 (2012).   
+23. S. Binder, I. Gadwal, A. Bielmann, and A. Khan, J. 
+Polym. Sci. Part A: Polym. Chem., 52, 2040–2046 
+(2014). 
+24. I. Gadwal and A. Khan, RSC Adv., 5, 43961–43964 
+(2015).   
+25. I. Gadwal, S. Binder, M. C. Stuparu, and A. Khan, 
+Macromolecules, 47, 5070–5080 (2014). 
+26. I. Gadwal and A. Khan, Polym. Chem., 4, 2440–
+2444 (2013).   
+27. I. Gadwal, T. Eom, J. H. Hwang, Y. Choe, J. Bang, 
+and A. Khan, RSC Adv., 7, 19439–19447 (2017).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28. J. Hwang, Y. Choe, J. Bang, and A. Khan, J. Polym. 
+Sci. Part A: Polym. Chem., 55, 3381–3391 (2017).   
+29. J. Oh and A. Khan, Biomacromolecules, 22, 3534–
+3543 (2021). 
+30. K. B. Buhl, A. H. Agergaard, R. K. Møller, M. 
+Kongsfelt, S. Heide-Jørgensen, M. K. Budzik, M. 
+Hinge, S. U. Pedersen, and K. Daasbjerg, ACS Appl. 
+Polym. Mater., 2, 2380–2388 (2020).   
+31. J. Han, K. Zhang, Q. Cai, P. Dong, D. Quan, and Y. 
+Bai, Biomed. Mater., 18, 055011 (2023). 
+32. J. Hwang, D. G. Lee, H. Yeo, J. Rao, Z. Zhu, J. Shin, 
+K. Jeong, S. Kim, H. W. Jung, and A. Khan, J. Am. 
+Chem. Soc., 140, 6700–6709 (2018).   
+33. H. Yeo and A. Khan, J. Am. Chem. Soc., 142, 3479–
+3488 (2020).   

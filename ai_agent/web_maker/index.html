@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meta Platforms — 2026 Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#hero" class="nav__logo" aria-label="Meta Research Home">
+        <svg width="28" height="14" viewBox="0 0 56 28" fill="none" aria-hidden="true">
+          <path d="M28 14C28 6.268 21.732 0 14 0S0 6.268 0 14s6.268 14 14 14c4.04 0 7.68-1.712 10.26-4.46C26.84 26.288 30.48 28 34.52 28 43.164 28 50 21.732 50 14S43.164 0 34.52 0c-4.04 0-7.68 1.712-10.26 4.46A13.916 13.916 0 0128 14z" fill="url(#meta-grad)"/>
+          <defs>
+            <linearGradient id="meta-grad" x1="0" y1="0" x2="50" y2="28" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#0072F0"/>
+              <stop offset="100%" stop-color="#6B2FA0"/>
+            </linearGradient>
+          </defs>
+        </svg>
+        <span>Meta</span>
+      </a>
+      <ul class="nav__links" role="list">
+        <li><a href="#about">About</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#financials">Financials</a></li>
+        <li><a href="#ai">AI</a></li>
+        <li><a href="#design">Design</a></li>
+      </ul>
+      <a href="#summary" class="btn btn--ghost">View Report</a>
+      <button class="nav__burger" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero" class="hero">
+    <div class="hero__content reveal">
+      <p class="eyebrow">Comprehensive Research Report · June 2026</p>
+      <h1>
+        Connecting<br/>
+        <span class="gradient-text">3.56 Billion</span><br/>
+        People.
+      </h1>
+      <p class="hero__desc">
+        Meta Platforms has evolved from a college social network into the world's most expansive AI and social infrastructure company — now powering the Superintelligence Era.
+      </p>
+      <div class="hero__actions">
+        <a href="#about" class="btn btn--primary">Explore Report</a>
+        <a href="#ai" class="btn btn--ghost">AI Strategy →</a>
+      </div>
+    </div>
+    <div class="hero__visual" aria-hidden="true">
+      <div class="orb orb--1"></div>
+      <div class="orb orb--2"></div>
+      <div class="orb orb--3"></div>
+      <div class="hero__ring"></div>
+    </div>
+  </section>
+
+  <!-- STATS STRIP -->
+  <section class="stats-strip" aria-label="Key metrics">
+    <div class="stats-strip__inner">
+      <div class="stat reveal" data-delay="0">
+        <span class="stat__num" data-count="3.56" data-dec="2">0</span><span class="stat__unit">B</span>
+        <p>Daily Active People</p>
+      </div>
+      <div class="stat__divider" aria-hidden="true"></div>
+      <div class="stat reveal" data-delay="100">
+        <span class="stat__num" data-count="200.97" data-dec="2" data-prefix="$">0</span><span class="stat__unit">B</span>
+        <p>2025 Revenue</p>
+      </div>
+      <div class="stat__divider" aria-hidden="true"></div>
+      <div class="stat reveal" data-delay="200">
+        <span class="stat__num" data-count="145" data-dec="0" data-prefix="$">0</span><span class="stat__unit">B</span>
+        <p>2026 CapEx (max)</p>
+      </div>
+      <div class="stat__divider" aria-hidden="true"></div>
+      <div class="stat reveal" data-delay="300">
+        <span class="stat__num" data-count="77986" data-dec="0">0</span>
+        <p>Employees (Q1 2026)</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section__label reveal">01 — Overview</div>
+      <div class="about__grid">
+        <div class="about__text reveal">
+          <h2>From a dorm room<br/>to the world's stage.</h2>
+          <p>Founded in 2004 at Harvard University by Mark Zuckerberg, Meta has grown through strategic acquisitions and platform evolution into the dominant force in global social connectivity.</p>
+          <p>The October 2021 rebrand to <strong>Meta Platforms</strong> signaled a strategic pivot — from social media company to a metaverse and AI infrastructure provider.</p>
+          <dl class="info-list">
+            <div><dt>HQ</dt><dd>Menlo Park, California</dd></div>
+            <div><dt>CEO</dt><dd>Mark Zuckerberg</dd></div>
+            <div><dt>Ticker</dt><dd>META · NASDAQ</dd></div>
+            <div><dt>Founded</dt><dd>2004</dd></div>
+          </dl>
+        </div>
+        <div class="timeline reveal" data-delay="150">
+          <h3>Milestones</h3>
+          <ol class="timeline__list">
+            <li><time>2004</time><span>TheFacebook launches at Harvard</span></li>
+            <li><time>2012</time><span>NASDAQ IPO · Acquired Instagram</span></li>
+            <li><time>2014</time><span>Acquired WhatsApp ($19B) · Oculus VR</span></li>
+            <li><time>2021</time><span>Rebranded to Meta Platforms</span></li>
+            <li><time>2023</time><span>Launched Threads</span></li>
+            <li><time>2025</time><span>LLaMA 4 · Instagram 3B MAU</span></li>
+            <li class="active"><time>2026</time><span>Meta Superintelligence Labs</span></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS -->
+  <section id="products" class="section section--gray">
+    <div class="container">
+      <div class="section__label reveal">02 — Products</div>
+      <h2 class="section__title reveal">Platforms at<br/>global scale.</h2>
+      <p class="section__desc reveal">Every app in Meta's portfolio serves over a billion people — an unparalleled distribution network for AI, commerce, and communication.</p>
+      <div class="products__grid">
+        <article class="product-card reveal" data-delay="0">
+          <div class="product-card__icon" style="--c:#1877F2">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </div>
+          <h3>Facebook</h3>
+          <p class="product-card__mau">3.07B MAU</p>
+          <p>Social networking, News Feed, Groups, Marketplace, Live</p>
+        </article>
+        <article class="product-card reveal" data-delay="60">
+          <div class="product-card__icon" style="--c:#E1306C">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="white" stroke="none"/></svg>
+          </div>
+          <h3>Instagram</h3>
+          <p class="product-card__mau">3.0B MAU</p>
+          <p>Photo, video, Reels, Stories, Shopping</p>
+        </article>
+        <article class="product-card reveal" data-delay="120">
+          <div class="product-card__icon" style="--c:#25D366">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"/></svg>
+          </div>
+          <h3>WhatsApp</h3>
+          <p class="product-card__mau">3.0B+ Users</p>
+          <p>Encrypted messaging, Voice/Video, Business API</p>
+        </article>
+        <article class="product-card reveal" data-delay="180">
+          <div class="product-card__icon" style="--c:#0099FF">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+          </div>
+          <h3>Messenger</h3>
+          <p class="product-card__mau">~1B+ Users</p>
+          <p>Chat, video calls, Facebook-integrated</p>
+        </article>
+        <article class="product-card reveal" data-delay="240">
+          <div class="product-card__icon" style="--c:#000000">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><line x1="21" y1="6" x2="3" y2="6"/><line x1="15" y1="12" x2="3" y2="12"/><line x1="17" y1="18" x2="3" y2="18"/></svg>
+          </div>
+          <h3>Threads</h3>
+          <p class="product-card__mau">Growing</p>
+          <p>Text-based social, X alternative</p>
+        </article>
+        <article class="product-card reveal" data-delay="300">
+          <div class="product-card__icon" style="--c:linear-gradient(135deg,#0072F0,#6B2FA0)">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
+          </div>
+          <h3>Meta AI</h3>
+          <p class="product-card__mau">All Platforms</p>
+          <p>AI assistant across apps and Ray-Ban glasses</p>
+        </article>
+        <article class="product-card reveal" data-delay="360">
+          <div class="product-card__icon" style="--c:#0052CC">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>
+          </div>
+          <h3>Meta Quest</h3>
+          <p class="product-card__mau">VR / AR</p>
+          <p>Quest 3, mixed reality, Horizon OS</p>
+        </article>
+        <article class="product-card reveal" data-delay="420">
+          <div class="product-card__icon" style="--c:#1A1A2E">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><circle cx="12" cy="12" r="2"/><path d="M12 1v3M12 20v3M4.22 4.22l2.12 2.12M17.66 17.66l2.12 2.12M1 12h3M20 12h3M4.22 19.78l2.12-2.12M17.66 6.34l2.12-2.12"/></svg>
+          </div>
+          <h3>Ray-Ban Glasses</h3>
+          <p class="product-card__mau">Wearable AI</p>
+          <p>Smart glasses with Meta AI built-in</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINANCIALS -->
+  <section id="financials" class="section">
+    <div class="container">
+      <div class="section__label reveal">03 — Financials</div>
+      <div class="fin__header">
+        <h2 class="section__title reveal">Record-breaking<br/>results.</h2>
+        <p class="section__desc reveal">$200.97 billion in 2025 revenue — a 22% year-over-year increase. Meta now invests more in AI infrastructure than most countries spend on R&D.</p>
+      </div>
+      <div class="fin__grid">
+        <div class="fin__bars reveal">
+          <h3>Annual Revenue</h3>
+          <div class="bar-track">
+            <div class="bar-row">
+              <span class="bar-year">FY 2023</span>
+              <div class="bar-bg"><div class="bar-fill" style="--w:67%"></div></div>
+              <span class="bar-val">$134.9B</span>
+            </div>
+            <div class="bar-row">
+              <span class="bar-year">FY 2024</span>
+              <div class="bar-bg"><div class="bar-fill" style="--w:82%"></div></div>
+              <span class="bar-val">$164.5B</span>
+            </div>
+            <div class="bar-row highlight">
+              <span class="bar-year">FY 2025</span>
+              <div class="bar-bg"><div class="bar-fill" style="--w:100%"></div></div>
+              <span class="bar-val">$200.97B</span>
+            </div>
+            <div class="bar-row projected">
+              <span class="bar-year">2026 H1</span>
+              <div class="bar-bg"><div class="bar-fill" style="--w:55%"></div></div>
+              <span class="bar-val">~$119B est.</span>
+            </div>
+          </div>
+        </div>
+        <div class="fin__cards">
+          <div class="kpi-card reveal" data-delay="0">
+            <p class="kpi-card__label">Op. Margin (2025)</p>
+            <p class="kpi-card__val">36<span>%</span></p>
+          </div>
+          <div class="kpi-card reveal" data-delay="80">
+            <p class="kpi-card__label">Net Income (2025 est.)</p>
+            <p class="kpi-card__val">$72.4<span>B</span></p>
+          </div>
+          <div class="kpi-card reveal" data-delay="160">
+            <p class="kpi-card__label">2026 CapEx</p>
+            <p class="kpi-card__val">$125–145<span>B</span></p>
+          </div>
+          <div class="kpi-card reveal" data-delay="240">
+            <p class="kpi-card__label">2026 Q2 Guidance</p>
+            <p class="kpi-card__val">$58–61<span>B</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- AI -->
+  <section id="ai" class="section section--dark">
+    <div class="container">
+      <div class="section__label reveal">04 — AI Strategy</div>
+      <h2 class="section__title reveal">The Superintelligence<br/>Era begins.</h2>
+      <p class="section__desc reveal">Meta has positioned open-source AI as its most powerful competitive weapon. LLaMA creates an ecosystem of dependency — and a moat no single proprietary model can match.</p>
+
+      <div class="llama__track reveal">
+        <div class="llama__line" aria-hidden="true"></div>
+        <div class="llama__item">
+          <div class="llama__dot"></div>
+          <time>Feb 2023</time>
+          <h4>LLaMA 1</h4>
+          <p>First open-source LLM · research release</p>
+        </div>
+        <div class="llama__item">
+          <div class="llama__dot"></div>
+          <time>Jul 2023</time>
+          <h4>LLaMA 2</h4>
+          <p>Commercial use · 7B–70B parameters</p>
+        </div>
+        <div class="llama__item">
+          <div class="llama__dot"></div>
+          <time>Apr 2024</time>
+          <h4>LLaMA 3</h4>
+          <p>Multilingual · 8B–405B params</p>
+        </div>
+        <div class="llama__item active">
+          <div class="llama__dot"></div>
+          <time>Apr 2025</time>
+          <h4>LLaMA 4</h4>
+          <p>MoE architecture · Scout, Maverick, Behemoth</p>
+        </div>
+        <div class="llama__item upcoming">
+          <div class="llama__dot"></div>
+          <time>Late 2026</time>
+          <h4>LLaMA 4.5</h4>
+          <p>Advanced reasoning · multimodal</p>
+        </div>
+      </div>
+
+      <div class="ai__initiatives">
+        <div class="ai__item reveal" data-delay="0"><h4>Meta Superintelligence Labs</h4><p>Dedicated frontier AI research division, established 2026</p></div>
+        <div class="ai__item reveal" data-delay="80"><h4>Meta AI Assistant</h4><p>Integrated across all apps and Ray-Ban smart glasses</p></div>
+        <div class="ai__item reveal" data-delay="160"><h4>AI Studio</h4><p>Targeting #1 destination for AI character creation globally</p></div>
+        <div class="ai__item reveal" data-delay="240"><h4>Meta Movie Gen</h4><p>AI video generation and editing research models</p></div>
+        <div class="ai__item reveal" data-delay="320"><h4>Llama for Startups</h4><p>Ecosystem program building Llama-native companies</p></div>
+        <div class="ai__item reveal" data-delay="400"><h4>Africa AI Initiative</h4><p>Open-source AI in Nigeria, Kenya, Senegal, South Africa</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DESIGN -->
+  <section id="design" class="section section--gray">
+    <div class="container">
+      <div class="section__label reveal">05 — Design Concept</div>
+      <h2 class="section__title reveal">Design language<br/>built for infinity.</h2>
+      <p class="section__desc reveal">Every pixel Meta creates is governed by a single philosophy: design for where people are <em>going</em>, not where they are.</p>
+
+      <div class="design__split reveal">
+        <div class="design__identity">
+          <h3>Visual Identity</h3>
+          <p>The Meta logo — a Möbius-strip infinity symbol — is designed to exist in three-dimensional space, traversable and textured. It connects the company's future to Facebook's legacy blue through a gradient that shifts from <strong>#0668E1</strong> to lighter tones.</p>
+          <div class="palette">
+            <div class="swatch" style="--c:#0072F0" title="Primary Blue #0072F0"><span>#0072F0</span></div>
+            <div class="swatch" style="--c:#0668E1" title="Deep Blue #0668E1"><span>#0668E1</span></div>
+            <div class="swatch" style="--c:#1B74E4" title="Sky Blue #1B74E4"><span>#1B74E4</span></div>
+            <div class="swatch" style="--c:#6B2FA0" title="AI Purple #6B2FA0"><span>#6B2FA0</span></div>
+            <div class="swatch" style="--c:#EBF3FF;--text:#0072F0" title="Light Blue #EBF3FF"><span>#EBF3FF</span></div>
+            <div class="swatch" style="--c:#1F2937" title="Dark #1F2937"><span>#1F2937</span></div>
+          </div>
+          <p class="design__typo-note"><strong>Typography</strong> — Custom rounded sans-serif (Meta Optimistic). Minimal stroke contrast, generous x-height, weight range 300–800. No decorative fonts; clarity is law.</p>
+        </div>
+        <div class="design__principles">
+          <h3>Core Principles</h3>
+          <ol class="principles-list">
+            <li>
+              <span class="principle-num">01</span>
+              <div><h4>Simplicity</h4><p>Remove friction. Strip UI to essentials. Content-first, zero decoration.</p></div>
+            </li>
+            <li>
+              <span class="principle-num">02</span>
+              <div><h4>Adaptive Systems</h4><p>Brand flexes across 2D, AR overlays, VR environments, and wearables.</p></div>
+            </li>
+            <li>
+              <span class="principle-num">03</span>
+              <div><h4>Hierarchy & Grid</h4><p>8pt grid, clear typographic weight, layered information architecture.</p></div>
+            </li>
+            <li>
+              <span class="principle-num">04</span>
+              <div><h4>Accessibility First</h4><p>WCAG 2.1 AA baseline. Designed for mobility, vision, and hearing diversity.</p></div>
+            </li>
+            <li>
+              <span class="principle-num">05</span>
+              <div><h4>Spatial-Ready</h4><p>Every component considers depth, shadow, and parallax for Horizon OS.</p></div>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SUMMARY / CTA -->
+  <section id="summary" class="section section--cta">
+    <div class="container">
+      <div class="section__label reveal">06 — Summary</div>
+      <h2 class="section__title reveal">The verdict.</h2>
+      <div class="summary__grid">
+        <div class="summary__card reveal" data-delay="0">
+          <span class="summary__tag positive">Strength</span>
+          <h3>Unmatched Scale</h3>
+          <p>3.56 billion daily active people across apps — no competitor is close.</p>
+        </div>
+        <div class="summary__card reveal" data-delay="80">
+          <span class="summary__tag positive">Strength</span>
+          <h3>Financial Power</h3>
+          <p>$200.97B revenue, 36% operating margin, and $125–145B reinvested into AI.</p>
+        </div>
+        <div class="summary__card reveal" data-delay="160">
+          <span class="summary__tag positive">Strength</span>
+          <h3>AI Ecosystem</h3>
+          <p>Open-source LLaMA builds industry lock-in no closed model can replicate.</p>
+        </div>
+        <div class="summary__card reveal" data-delay="240">
+          <span class="summary__tag positive">Strength</span>
+          <h3>Platform Diversity</h3>
+          <p>Multiple 3B+ MAU platforms eliminate single-point-of-failure risk.</p>
+        </div>
+        <div class="summary__card reveal" data-delay="320">
+          <span class="summary__tag positive">Strength</span>
+          <h3>Hardware Bet</h3>
+          <p>Ray-Ban glasses and Quest 3 stake a claim on the post-phone computing era.</p>
+        </div>
+        <div class="summary__card reveal" data-delay="400">
+          <span class="summary__tag risk">Risk</span>
+          <h3>Regulatory & Competition</h3>
+          <p>Privacy regulation pressure and ByteDance/TikTok competition remain the primary headwinds.</p>
+        </div>
+      </div>
+      <div class="cta-block reveal">
+        <p class="cta-block__quote">"Build for where people are going, not where they are."</p>
+        <p class="cta-block__attr">— Meta Design Philosophy</p>
+        <a href="#hero" class="btn btn--primary btn--lg">Back to top ↑</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p class="footer__brand">
+        <svg width="20" height="10" viewBox="0 0 56 28" fill="none" aria-hidden="true">
+          <path d="M28 14C28 6.268 21.732 0 14 0S0 6.268 0 14s6.268 14 14 14c4.04 0 7.68-1.712 10.26-4.46C26.84 26.288 30.48 28 34.52 28 43.164 28 50 21.732 50 14S43.164 0 34.52 0c-4.04 0-7.68 1.712-10.26 4.46A13.916 13.916 0 0128 14z" fill="#9CA3AF"/>
+        </svg>
+        Meta Platforms Research · 2026
+      </p>
+      <p class="footer__note">Data sourced from SEC filings and public investor reports. For informational purposes only.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

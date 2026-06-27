@@ -1,0 +1,1369 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Homopolymer Bifunctionalization through Sequential Thiol-
+Epoxy and Esterification Reactions: An Optimization, 
+Quantification, and Structural Elucidation Study 
+ 
+ 
+Journal: Polymer Chemistry 
+Manuscript ID: PY-ART-10-2014-001453 
+Article Type: Paper 
+Date Submitted by the Author: 26-Oct-2014 
+Complete List of Authors: Khan, Anzar; ETH-Zürich, Department of Materials 
+Stuparu, Mihaiela; University of Zürich,  
+Gadwal, Ikhlas; ETH-Zürich,  
+  
+ 
+ 
+Polymer Chemistry
+
+Journal Name 
+Cite this: DOI: 10.1039/c0xx00000x 
+www.rsc.org/xxxxxx 
+Dynamic Article Links ►
+ARTICLE TYPE
+ 
+This journal is © The Royal Society of Chemistry [year] [journal], [year], [vol], 00–00  |  1 
+Homopolymer Bifunctionalization through Sequential Thiol-Epoxy and 
+Esterification Reactions: An Optimization, Quantification, and 
+Structural Elucidation Study  
+Ikhlas Gadwal,
+a
+ Mihaiela C. Stuparu
+b
+ and Anzar Khan*
+a
+ 
+Received (in XXX, XXX) Xth XXXXXXXXX 20XX, Accepted Xth XXXXXXXXX 20XX 5 
+DOI: 10.1039/b000000x 
+In this study, we probe various aspects of a postpolymerization doublemodification strategy involving 
+sequential thiolepoxy and esterification reactions for the preparation of dualfunctional homopolymers. 
+For this, a general reactive scaffold, poly(glycidyl methacrylate), carrying an aromatic endgroup was 
+prepared through an atom transfer radical polymerization (ATRP) process. The glycidyl sidechains of 10 
+this polymer were subjected to a basecatalyzed ring opening reaction with the thiol nucleophiles. 
+Systematic variation in the catalyst type, catalyst loading, reaction medium, reaction temperature, and 
+reaction time suggested that the choice and amount of catalyst had a significant impact on the outcome of 
+the thiolepoxy reaction. Endgroup analysis in 
+1
+HNMR spectroscopy was employed to quantify the 
+degree of epoxy group conversion into the corresponding thioether moiety. The secondary hydroxyl 15 
+groups generated as a result of the first functionalization reaction were then employed in the anchoring of 
+a second functional group to the polymer repeat unit through an esterification reaction. Quantification 
+studies suggested that an excess of the activated acid molecules was necessary to observe quantitative 
+functional group transformation. Elemental analysis confirmed the chemical composition of the 
+functionalized polymers. The obtained bifunctionalized polymers could be converted into a water soluble 20 
+amphipathic structure in which each polymer repeat unit was substituted with a hydrophilic ammonium 
+cation and a hydrophobic alkyl chain. Besides these, a carefully planned model compound study was also 
+conducted to examine the regiochemical aspects of the prepared polymers. 
+Introduction 
+Demand  for  synthetic  polymers  displaying  a  welldefined 25 
+functional group array has been rising with the pressing need to 
+meet  future  health  and  energy  issues.
+12
+  For  instance,  in  the 
+biomedical  arena,  welldefined  structures  featuring  multiple 
+functionalities for imaging, tissue targeting, and cellentry in an 
+allinone    system    are    highly    desired.
+3
+    Such    a 30 
+multifunctionalization  approach  is  expected  to  increase  the 
+performance and efficacy of the designed systems.
+46
+ Synthesis of 
+polymers that carry multiple functionalities at precise locations is 
+however  a  challenging  task.  This  endeavor  requires synthetic 
+methods  that  proceed  with  absolute  fidelity,  high  levels  of 
+35 
+control,  and  extraordinary  functional  group  compatibility.  One 
+way  to  address  this  challenge  is  through  postpolymerization 
+modification of carefully designed reactive polymeric scaffolds.
+7
+18
+ In this context, various approaches have been established. For 
+example,  double,  triple,  and  quadruple  postpolymerization 40 
+modifications on random and alternating copolymers have been 
+demonstrated.
+1937
+  Block  copolymers  carrying  reactive  sites 
+dispersed within one polymer segment or two different types of 
+reactive  sites,  one  in  each  segment,  have  been  shown  to  afford 
+welldefined  multifunctional  materials.
+22,30,3839
+  The  terminal 45 
+site(s) of a polymer chain have also been addressed for multiple 
+postpolymerization  modification  processes.
+4044
+  In  a  different 
+approach, homopolymer sequences have been designed to carry 
+multiple functionalities. In order to understand the implications of 
+this approach on the structure and the properties of the resulting 
+50 
+materials, one has to consider the alternative approach in which a 
+random  copolymerization  of  two  or  more  functionalizable 
+monomers  can  also  lead  to  polymers  carrying  multiple 
+functionalities. The random copolymerization process, however, 
+yields  polymers  with  illdefined  monomer  sequence  (...AAB... 
+55 
+or ...BAB... or ...BBA... or ...ABA...) that is subject to change 
+from reaction to reaction even if the total percentage of the two 
+monomers remains constant. Therefore, it is difficult to assume 
+that  a  direct  property  comparison,  especially  in  the  biomedical 
+applications context in which pharmacokinetic behavior is known 
+60 
+to be sensitive to the precise molecular structure,
+45
+ can be made 
+in  a  multifunctional  polymer  family  that  is  prepared  through  a 
+random copolymerization process. In the case of multifunctional 
+homopolymers,   however,   such   direct   structure   property 
+comparisons can be made due to the identical chemical structure 65 
+of each polymerrepeat unit involved. Moreover, a reproducible 
+Page 1 of 10Polymer Chemistry
+
+ 
+2  |  Journal Name, [year], [vol], 00–00 This journal is © The Royal Society of Chemistry [year] 
+synthesis  and  pharmacokinetic  behavior  can  be  expected  from 
+such  molecularly  precise  materials.  The  synthetic  approach  of 
+preparing  multifunctional  homopolymers  is  illustrated  by  the 
+works of Novak, Haddleton, Grubbs, Tao, Meier, and Theato.
+4651
+ 
+We  have  contributed  to  this  aspect  by  introducing  a  post
+5 
+polymerization  doublemodification  strategy  in  which  the  thiol
+epoxy  and  esterification  reactions  on  a  free  radically  prepared 
+glycidyl   scaffold   was   shown   to   furnish   dualfunctional 
+homopolymers  in  three  steps  starting  from  commercially 
+available and inexpensive small molecules.
+52
+ In a later report, this 10 
+concept   was   combined   with   controlled   free   radical 
+polymerization  to  yield  poly(ethylene  glycol)  (PEG)based 
+copolymers
+30
+ and molecular bottlebrushes
+53
+ of low polydispersity 
+and water solubility. Recently, the general nature of this strategy 
+has  been  applied  to  prepare  a  library  of  bifunctional  polymers 15 
+carrying  an  ammonium  group  and  a  lipophile  (an  alkyl/aryl 
+moiety).
+54
+   These   polymers   were   capable   of   forming 
+supramolecular  complexes  with  siRNA  and  delivering them  to 
+human  colon  carcinoma  cells  (HT29luc).  In  this  design,  the 
+positively  charged  ammonium  groups  interacted  with the 20 
+negatively charged siRNA and the lipophilic chains allowed the 
+formed complex to cross the cell/endosome  membrane. Besides 
+these, collaborative effort among the groups of Haddleton, Davis, 
+Boyer  and  Whittaker,  work  from  the  Gao  lab  and  Nicolaÿ  lab, 
+and some work from our group have put the thiolepoxy coupling 
+25 
+chemistry to work in the preparation of a variety of chemically 
+complex yet welldefined materials.
+5559
+ Despite these advances, a 
+number of questions relating to different aspects of this strategy 
+of  polymer  functionalization  remain,  however,  unanswered. 
+Regarding  the  first  step,  the  thiolepoxy  reaction on  a  polymer 
+30 
+substrate, a systematic and comparative study comprehending the 
+available  catalyst  choices  and  their  consequences, optimum 
+reaction  conditions,  and  optimum  catalyst  loading  is  missing. 
+Regarding  the  second  step,  the  esterification  reaction,  the  most 
+important question perhaps is: can the secondary hydroxyl groups 
+35 
+with  significant  steric  demand  and  known  lower  reactivity  be 
+employed  as  efficient  coupling  partners?  This  question  relates 
+directly to the structural precision of the prepared final materials 
+and therefore bears heavily on their description as ‘bifunctional 
+homopolymers’.  Besides  these,  the  regiochemistry  aspects  also 
+40 
+need to be considered. The present study, therefore, investigates 
+the  aforementioned  questions  in  a  systematic  fashion.  It  is 
+anticipated  that  this  work  will  serve  as  a  guide  to  researchers 
+interested  in  employing  the  thiolepoxy  reaction  for  polymer 
+synthesis and postpolymerization modification purposes, and for 45 
+a  sequential  dualmodifications  approach  involving thiolepoxy 
+and  esterification  reactions  to  create  bifunctional  polymeric 
+materials. 
+Results and Discussion 
+Thiol-Epoxy Reaction Mechanism 50 
+Epoxides  are  strained  threemembered  rings.  The  ring  strain 
+comes  from  the  60°  angle  between  the  bonds  and  renders  the 
+molecule  susceptible  to  nucleophilic  attacks  in  order  to  restore 
+the  ideal  tetrahedral  angle  (109°)  at  all  atoms.  Thiols  can 
+participate  in  such  a  ring  opening  reaction.  However,  the  thiol 
+55 
+functionality has to be transformed into an attacking thiolate  
+Scheme  1.  Thiolepoxy  reaction  under  basic  conditions.  The 
+reaction  is  most  likely  to  proceed  by  an  S
+N
+2
+  mechanism. 
+Therefore,  a  stepwise  depiction  is  meant  only  to  simplify  the 
+process for a better understanding. 60 
+ 
+anion. This can be achieved by using a base that is strong enough 
+to deprotonate the thiol group. In chemistry textbooks, this base is 
+most  often  depicted  as  lithium  or  sodium  hydroxide.  The 
+hydroxide  anion  can  deprotonate  thiol  molecules  quantitatively. 
+65 
+In  terms  of  the  attack  on  the  epoxide  ring,  it  should  be  noted, 
+however,  that  there  is  no  competition  between  hydroxide  and 
+thiol  because  thiols  are  more  acidic  than  water  (pK
+a
+  of  RSH  is 
+typically 510, pK
+a
+ of PhSH is 6.4, and pK
+a
+ of water is 15.7)
+6061
+ 
+and  therefore  a  rapid  proton  transfer  occurs  from  sulfur  to 70 
+oxygen.  Once  formed,  the  thiolate  nucleophile  attacks  the  less 
+hindered site of the epoxide unit. The alkoxide unit thus formed 
+gets protonated, due to its high basicity (pK
+a
+ ~ 17),
+62
+ by either the 
+thiol  molecules  present  in  the  system  (due  to  their  acidity  as 
+discussed above), by the typical wet/protic nature of the reaction 
+75 
+medium, or by the water generated during the reaction (e.g. when 
+using  a  hydroxide  base)  (Scheme  1).  This  thermodynamically 
+driven  proton  transfer  step  is  critical  in  quenching  the  alkoxide 
+anion and hence stopping an anionic ring opening polymerization 
+reaction  from  commencing.  The  end  product  of  this  reaction, 
+80 
+therefore,  is  a  new  thioether  linkage  and  a  secondary  hydroxyl 
+group. This hydroxyl group can be used for a successive second 
+functionalization. A structurally related concept of preparation of 
+secondary  hydroxyl  group  substituted  polymers  and  their  post
+polymerization  modifications  can  be  found  in  the  works  of 
+85 
+Kiskan and Yagci.
+63
+ 
+Synthesis of the General Reactive Scaffold 
+Poly(glycidyl  methacrylate)  represents  a  versatile scaffold  that 
+has  found  vast  utility  in  the  preparation  of  functional  soft 
+materials.
+6466
+  To  prepare  this  polymer,  glycidyl  methacrylate 90 
+monomer, 1,  was  polymerized  through  an  atom  transfer  radical 
+polymerization  (ATRP)
+67
+  using  aromatic  initiator 2  to  yield 
+poly(glycidyl  methacrylate) 3  (Table  1,  Scheme  2).  In  order  to 
+remove  the  residual  monomer,  the  resulting  polymer was 
+precipitated into isopropanol, passed through a plug of silica gel, 
+95 
+and  then  precipitated  again  in  isopropanol.  This  treatment  was 
+sufficient  to  obtain  pure  polymer 3.  In  the 
+1
+HNMR  spectrum, 
+polymer 3  featured  three  proton  resonances  located  at  2.6,  2.8, 
+and  3.2  ppm  belonging  to  the  reactive  epoxide  unit of  the 
+polymer repeat unit (Figure 1). The aromatic proton resonances 
+100 
+arising from the initiating species could be observed at 6.7 and 
+7.2 ppm. The signal at 6.7 ppm allowed for determination of the  
+Page 2 of 10Polymer Chemistry
+
+ 
+This journal is © The Royal Society of Chemistry [year] Journal Name, [year], [vol], 00–00  |  3 
+Scheme 2. Polymerization of glycidyl  methacrylate  monomer 1 
+with initiator 2 to yield general reactive scaffold 3. 
+ 
+Table 1. Molecular weight data for polymers 3, 5, and 9. 
+Polymer DP
+ (NMR)
+ M
+n (NMR)
+ M
+n (GPC)
+ PDI (M
+w
+/M
+n
+) 
+3 
+40 5700 17600 1.3 
+5 
+40 12800 23500 1.3 
+9 
+40 16700 22000 1.4 
+ 5 
+ Figure  1. 
+1
+HNMR  of  the  polymerization  initiator  and  the 
+general reactive scaffold 3. Signals from tetramethylsilane (TMS) 
+and  chloroform  are  marked  with  an  asterisk.  The  integration 
+values belong to the bottom trace only. 
+Figure 2. GPC traces of the polymers 3 (solid line), 5 (dot line), 
+10 
+and 9 (dash line) in DMF. 
+ 
+degree of polymerization through endgroup analysis. According 
+to this, polymer 3 was composed of an average of 40 repeat units. 
+Gel permeation chromatography suggested that the  15 
+Scheme 3. First functionalization of the general scaffold 3 with 
+thiols 4 and 6. 
+ 
+Figure  3. 
+1
+HNMR  of  poly(glycidyl  methacrylate) 3  after 
+functionalization  with  thiol 4  through  thiolepoxy  reaction. 20 
+Signals from TMS, chloroform, and diethylether are marked with 
+an asterisk. 
+ 
+polymerization   proceeded   under   good   control,   and   low 
+polydispersity materials could be obtained (Figure 2 and Table 1). 
+25 
+First Functionalization through the Thiol-Epoxy Reaction 
+The first functionalization of reactive scaffold 3 was carried out 
+through  a  thiolepoxy  reaction  using  thiol 4  (Scheme  3).  The 
+epoxy to thiol ratio was kept constant at 1:1.25 and all reactions 
+were carried out at room temperature. The tertbutoxycarbonyl (t
+30 
+Boc) unit of 4 provided a good handle in fathoming the degree of 
+functionalization.  For  this,  area  integration of  the  signal  arising 
+from  the  three  aromatic  protons  located  at  the  endgroup  of 
+polymer 3 (6.7 ppm) was compared to the area integration of the 
+tBoc signal located at 1.5 ppm in the 
+1
+HNMR spectrum of the 35 
+monofunctionalized  polymer 5  (Figure  3).  This  allowed  for 
+determination of the epoxy group conversion, as shown in Tables 
+2, 3 and 4, into the corresponding thioether moiety. 
+Initially,  triethylamine  (TEA)  was  employed  as  a  catalyst  and 
+tetrahydrofuran (THF) was used as a solvent. The reaction time 
+40 
+was  set  at  one  hour  at  room  temperature  and  with  a catalyst 
+loading of 1.2 mol%. However, no reaction was observed at these 
+conditions (Table 2). An increase in the catalyst loading to 3.6,  
+Page 3 of 10Polymer Chemistry
+
+ 
+4  |  Journal Name, [year], [vol], 00–00 This journal is © The Royal Society of Chemistry [year] 
+Table 2. Functionalization of polymer 3 with aliphatic thiol 4. 
+Entry     Catalyst Cat. 
+loading
+a
+ 
+(mol%) 
+Catalyst 
+(eq./4) 
+Time 
+(h) 
+Conversion 
+(%) 
+1 TEA 1.2 0.01 1  
+2 TBAF 1.2 0.01 1 7 
+3 LiOH 1.2 0.01 1 90 
+4 TEA 1.2 0.01 3  
+5 TBAF 1.2 0.01 3 12 
+6 LiOH 1.2 0.01 3 97 
+7 TEA 3.6 0.03 1  
+8 TBAF 3.6 0.03 1 34 
+9 LiOH 3.6 0.03 1 
+>99 
+10 TEA 3.6 0.03 3  
+11 TBAF 3.6 0.03 3 31 
+12 LiOH 3.6 0.03 3 
+>99 
+13 TEA 5.9 0.05 1  
+14 TBAF 5.9 0.05 1 56 
+15 LiOH 5.9 0.05 1 
+>99 
+16 TEA 5.9 0.05 3  
+17 TBAF 5.9 0.05 3 68 
+18 LiOH 5.9 0.05 3 
+>99 
+19 TEA 8.0 0.07 1  
+20 TBAF 8.0 0.07 1 85 
+21 LiOH 8.0 0.07 1 
+>99 
+22 TEA 8.0 0.07 3  
+23 TBAF 8.0 0.07 3 85 
+24 LiOH 8.0 0.07 3 
+>99 
+25 TEA 8.0 0.07 12  
+26 TBAF 8.0 0.07 12 87 
+27 TEA 20.7 0.21 1  
+28 TBAF 20.7 0.21 1 95 
+29 TEA 20.7 0.21 3  
+30 TBAF 20.7 0.21 3 
+>99 
+All reactions were carried out at 25 °C using 1.25 equivalents of thiol 4 
+per  epoxy  unit. 
+a
+related  to  the  limiting  substrate  (i.e.  an  epoxy  unit  of 
+polymer 3). 
+ 5 
+Table 3. Functionalization of polymer 3 with aromatic thiol 6. 
+Entry     Catalyst Cat. 
+Loading 
+(mol%) 
+Catalyst 
+(eq./6) 
+Time 
+(h) 
+Conversion 
+(%) 
+1 TEA 8.0 0.07 12 50 
+2 TEA 20.7 0.21 12 80 
+3 TBAF 20.7 0.21 1 
+>99 
+4 TEA 34.4 0.42 12 
+>99 
+5 LiOH 1.2 0.01 1 90 
+All reactions were carried out at 25 °C using 1.25 equivalents of thiol 6 
+per epoxy unit. 
+ 
+Table 4. Thiolepoxy reaction using DMSO as a solvent. 10 
+Ent
+ry 
+Catal
+yst 
+Cat. 
+Loadi
+ng 
+(mol
+%) 
+Catal
+yst 
+(eq./4
+) 
+4 
+(eq./epoxi
+de) 
+Ti
+me 
+(h) 
+Tem
+p. 
+(ºC) 
+Convers
+ion (%) 
+1     TEA     34.4     0.42 1.25 12     25 20 
+2     TEA     34.4     0.42 1.25 12     50 55 
+3     TEA     60.9     1.25 1.25 12     50 73 
+4     TEA     65.2     1.25 1.5 12     50 85 
+5     TEA     68.6     1.25 1.75 12     50 85 
+6     TEA     81.3 2.5 1.75 12     50 >90 
+ 
+Figure 4. 
+1
+HNMR of polymer 5 prepared upon TBAF catalysis 
+(reaction time = 3 h). The numbers on the left side indicate the 
+amount of the catalyst in mol% and the numbers on the right side 
+indicate degree of epoxide group conversion. Signals from TMS, 15 
+chloroform,  dichloromethane,  and  diethylether  are  marked  with 
+an asterisk. 
+Figure 5.
+  1
+HNMR of polymer 5 prepared upon LiOH catalysis 
+(reaction time = 1 h). The numbers on the left side indicate the 
+amount of the catalyst in mol% and the numbers on the right side 
+20 
+indicate degree of epoxide group conversion. Signals from TMS, 
+chloroform,  dichloromethane,  and  diethylether  are  marked  with 
+an asterisk. 
+ 
+ 
+25 
+5.9, and 8.0 mol% did not change the outcome of the reaction. 
+Therefore,  reaction  time  was  increased  to  three  hours. Still,  the 
+epoxy  groups  of  polymer 3  remained  intact.  Therefore,  the 
+reaction time as well as the catalyst loading was increased to 12 
+hours  and  20.7  mol%,  respectively.  These  conditions,  however, 
+30 
+remained unfruitful. It is likely that in the case of aliphatic thiols 
+of relatively low acidity (pK
+a
+ ≈ 10), triethylamine, having pK
+a
+ in 
+the  similar  range  (10.7),  fails  to  act  as  an  efficient  base  at  the 
+initial deprotonation step at room temperature and in THF. To  
+* 
+  
+ 
+1.2 mol % 
+3.6 mol % 
+5.9 mol % 
+8 mol % 
+20.7 mol % 
+12 % 
+31 % 
+68 % 
+85 % 
+>99 % 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+≈ 
+* 
+  
+ 
+* 
+  
+ 
+= unreacted glycidyl unit 
+= reacted glycidyl unit 
+876543210
+ppm
+1
+4
+1
+.
+1
+5
+0
+.
+3
+8
+7
+.
+1
+5
+5
+.
+5
+4
+0
+.
+4
+4
+0
+.
+0
+1
+1
+.
+4
+4
+0
+.
+0
+1
+4
+.
+6
+3
+9
+.
+7
+3
+.
+0
+876543210
+ppm
+* 
+  
+ 
+* 
+  
+ 
+1.2 mol % 
+3.6 mol % 
+5.9 mol % 
+8 mol % 
+90 % 
+>99 % 
+>99 % 
+>99 % 
+*
+ 
+  
+ 
+* 
+  
+ * 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+≈ 
+= unreacted glycidyl unit 
+= reacted glycidyl unit 
+Page 4 of 10Polymer Chemistry
+
+ 
+This journal is © The Royal Society of Chemistry [year] Journal Name, [year], [vol], 00–00  |  5 
+Table 5. Elemental analysis details of the mono, and bifunctionalized 
+polymers. 
+ Polymer 5 Polymer 9 
+Element   Calculated (%) Found (%)  Calculated (%) Found (%) 
+[C] 52.64 52.47 57.53 57.42 
+[H] 7.89 7.98 8.45 8.47 
+[N] 4.39 4.27 3.35 3.29 
+[O] 25.04 25.31 22.99 23.01 
+[S] 10.04 9.82 7.68 7.47 
+ 
+check this, aromatic thiol 6, with relatively higher acidity (pK
+a
+ ≈ 
+6)  was  employed.  In  this  case,  50%  conversion  was  observed 
+5 
+while  using  8  mol%  of  the  catalyst  and  a  reaction  time  of  12 
+hours at 25 ºC (Table 3). An increase in the catalyst loading to 
+34.4% ensured a quantitative conversion of the epoxide units of 
+polymer 3 into the targeted thioethers. These results confirmed 
+that  TEA  could  be used  in  THF  as  a  base  for  functionalization 10 
+with  aromatic  thiols.  However,  significant  amount  of  time  and 
+catalyst were required for full functionalization. To further check 
+the suitability of TEA as a catalyst involving aliphatic thiols, the 
+reaction  medium  was  changed  to  a  more  polar  solvent 
+dimethylsulfoxide  (DMSO).  It  should be  mentioned  that  due  to 15 
+the toxic nature of DMSO, the present study does not employ it 
+as a primary reaction medium.  Nonetheless, 20% conversion of 
+the epoxide units was observed in this case (Table 4). An increase 
+in  the  reaction  temperature  to  50  ºC  led  to  a  higher  degree  of 
+conversion (55%). An increase in the amount of the thiol reactant 
+20 
+(1.51.75 eq./epoxy) and the catalyst loading (6881 mol%) was 
+necessary to achieve conversions of 85% and higher. 
+Next,  tetrabutylammonium  fluoride  (TBAF),  known  for  its 
+catalytic  properties  in  the  thiolepoxy  reaction,
+68
+  was  employed 
+and THF was used as the reaction medium. At 1.2 mol% catalyst 
+25 
+loading and 1 hour of reaction time, 7% conversion of the epoxy 
+units  was  observed  (Table  2  and  Figure  4).  An  increase  in  the 
+catalyst loading to 8% resulted in significant improvement (85%) 
+in  the  degree  of  epoxide  group  conversion.  Therefore,  the 
+reaction time was increased to 3 and then 12 hours. However, the 
+30 
+conversion did not change appreciably. Therefore, an increase in 
+the catalyst loading was applied. In this case, a catalyst loading of 
+20.7 mol%  was  sufficient to lead to a quantitative epoxygroup 
+conversion  in  three  hours  of  the  reaction  time  at  room 
+temperature. Use of the aromatic thiol 6 produced similar results. 
+35 
+In  comparison  to  TEA,  TBAF,  therefore,  offers  a  better  choice 
+due to its generality (aliphatic and aromatic thiols), low duration 
+for  complete  consumption  of  the  epoxide  units,  and the 
+comparatively lower required catalyst loading.  
+Finally, lithium hydroxide (LiOH) was employed as the reaction 40 
+catalyst and aqueous THF (10% water) was used as the reaction 
+medium.
+69
+ In this case, at the catalyst loading of 1.2 mol% and a 
+reaction time of 1 hour, 90% conversion was achieved (Table 2 
+and  Figure  5).  An  increase  in  the  catalyst  loading to  3.6  % 
+already resulted in complete conversion of the epoxy groups at 25 
+45 
+ºC and in an hour of reaction time. Similar results were obtained 
+while using aromatic thiol 6 (Table 3). Therefore, in comparison 
+to TEA and TBAF, LiOH performed much better. These results 
+indicated that LiOH was the best choice as a catalyst due to its 
+minimal  amount required and the short duration of the reaction 
+50 
+time. 
+GPC analysis confirmed that the thiolepoxy functionalization  
+Scheme 4. Esterification of polymer 5. 
+ 
+Figure  6. 
+1
+HNMR  of  the  bifunctionalized  homopolymer 9. 55 
+Residual solvent signals are marked with an asterisk. 
+ 
+reaction did not influence the molecular weight distribution of the 
+precursor  polymer  (Figure  2).  This  analysis  was  deliberately 
+carried  out  in  dimethylformamide  (DMF)  and  at  higher 
+60 
+temperature  (45  ºC)  to  ensure  that  the hydroxyl  groups  and  the 
+amide groups of the functionalized polymer 5 did not engage in 
+inter  or  intramolecular  hydrogen  bonding  communications  or 
+unfavorable  adhesion  interactions  with  the  stationary  phase. 
+Elemental  analysis  confirmed  the  chemical  composition  of  the 
+65 
+polymers (Table 5). 
+Second Functionalization through Esterification Reaction 
+The  hydroxyl  groups  generated  as  a  result  of  the  first 
+functionalization  reaction  were  used  as  anchor  points  for  the 
+attachment  of  a  second  functional  group  to  the  polymer  repeat 70 
+unit (Scheme 4). For this, the hydroxyl groups of polymer 5 were 
+involved  in  an  esterification  reaction  with  an  acid  chloride 
+molecule 8. In order to determine the extent of the esterification 
+reaction, once again, the threeproton resonance signal (6.7 ppm) 
+arising from the polymer chainend was compared with the area 
+75 
+integration  of  the  proton  located  at  the  methylene carbon  atom 
+adjacent to the newly formed ester group (Figure 6). This analysis 
+indicated that use of 1.25, 1.5, and 1.75 equivalents (per hydroxyl 
+group) of the acid chloride molecule led to a 7080% conversion 
+of  the  hydroxyl  units  into  the  ester  moiety.  An  excess  of  the 
+80 
+activated acid (2 eq./OH) was necessary to achieve a quantitative 
+conversion of the secondary hydroxyl group into the ester moiety. 
+GPC  analysis  suggested  that  the  polydispersity  index  remained 
+constant  after  the  second  functionalization  as  well  (Figure  2). 
+However,  an  unexpected  shift  to  a  higher  retention time  was 
+85 
+observed  for  bifunctionalized  polymer 9  when  compared  to  the 
+precursor  polymer 5.  It  is  likely  that  introduction  of  an  alkyl 
+chain at each repeat unit renders the polymer chain with a  
+Page 5 of 10Polymer Chemistry
+
+ 
+6  |  Journal Name, [year], [vol], 00–00 This journal is © The Royal Society of Chemistry [year] 
+Figure  7. 
+1
+HNMR  of  the  higher  molecular  weight  reactive 
+scaffold  (DP  =  86)  (bottom)  upon  application  of  the  optimized 
+thiolepoxy (top) reaction. 
+Figure 8. GPC traces of the lower molecular weight (solid line) 
+and higher molecular weight (dash dot line) reactive scaffold 3. 5 
+ 
+Figure 9. Esterification of the higher molecular weight polymer 
+5. 
+ 
+hydrophobic  character  unlike  its  precursor  polymer.  This  may 
+10 
+result  in  a  decrease  in  the  hydrodynamic  volume  due  to  a 
+solvophobically driven collapse of the hydrophobic polymer coil 
+in a polar solvent such as DMF. Once again, elemental analysis 
+confirmed the chemical composition of the bifunctional polymer 
+repeat unit (Table 5). 
+15 
+Application of Higher Molecular Weight Reactive Scaffold 
+In an attempt to examine the generality of the optimized reaction 
+conditions,  the  primary  reactive  scaffold 3  was  prepared  with 
+higher molecular weight (DP
+(NMR)
+ = 86, M
+w(GPC)
+ = 12200, M
+n(GPC)
+ 
+= 16300, M
+w
+/M
+n
+ = 1.3) attributes. Once again, endgroup signals 20 
+from  the  initiator  were  used  to  determine  the  degree  of 
+polymerization  through  area  integration  analysis  in  NMR 
+spectroscopy (Figure 7). This analysis confirmed that the degree 
+of  polymerization  in  the  newly  synthesized  poly(glycidyl 
+methacrylate)  was  two  times  higher  than  the  previously  used 
+25 
+reactive scaffold. GPC analysis also corroborated this conclusion 
+as  the  retention  time  of  the  newly  prepared  scaffold  was 
+significantly  shifted  to  the  lower  side  as  compared  to  the 
+previously studied poly(glycidyl methacrylate) (Figure 8). Once 
+again,  a  narrow  elution  curve  indicated  good  control  over  the 
+30 
+polymerization  process.  Having  this  higher  molecular  weight 
+scaffold  in  hand,  initially,  the  first  functionalization  reaction 
+through the thiolepoxy reaction was studied under the optimized 
+reaction conditions. For this, in case of TBAF, 20.7 mol%, and in 
+case of LiOH, 3.6 mol%, of the catalyst loading was employed. 35 
+The reactions were carried out for 1 (for LiOH) and 3 (for TBAF) 
+hours. 
+1
+HNMR  analysis  revealed  that  in  both  cases  complete 
+consumption of the epoxy group could be accomplished (Figure 
+7). 
+In order to study the next aspect, the resulting higher molecular 
+40 
+weight polymers  were  subjected to the second functionalization 
+through the esterification reaction with molecule 8. Once again, 
+application  of  the  aforementioned  optimized  conditions  for  the 
+esterification  reaction  resulted  in  quantitative  conversion  of  the 
+hydroxyl groups into the desired ester functionalities (Figure 9). 
+45 
+These  experiments  established  the  generality  of  the  optimized 
+conditions.  
+Regio-chemistry Aspects 
+ 
+Scheme 5.  Two  possible  regioisomers  expected  from  a  thiol50 
+epoxy reaction. 
+ 
+In a nucleophilic ringopening reaction of asymmetric epoxides, 
+two  regioisomers  can  form  (Scheme  5).  It  is  the  reaction 
+conditions that decide the structure of the formed product. In the 
+55 
+presence of a strong thiolate anion (under basic conditions) and a 
+poor leaving group (an alkoxide anion), an S
+N
+2
+ pathway prevails 
+and  the  best  target  for  the  nucleophile  to  attack  is  the  least 
+hindered carbon atom. Therefore, isomer I is formed under basic 
+conditions. Under acidic conditions, however, the oxygen atom of 
+60 
+the  epoxide  is  protonated,  creating  a  good  leaving group  and 
+building up a positive charge on the most substituted carbon atom 
+as this carbon atom is best suited to stabilize a positive charge. 
+The nucleophilic attack in this case, therefore, comes at the most 
+substituted carbon atom as it holds a greater degree of positive  
+65 
+ppm 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+* 
+  
+ 
+11  12  13   14   15   16  17   18  19  20
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+ 
+ 
+signal intensity (a.u.)
+elution time (min)
+*
+ 
+ppm 
+* 
+* 
+* 
+Page 6 of 10Polymer Chemistry
+
+ 
+This journal is © The Royal Society of Chemistry [year] Journal Name, [year], [vol], 00–00  |  7 
+Scheme  6.  Synthesis  of  a  regioisomer  mimic  type  I  of  the 
+bifunctional polymer repeat unit. 
+ 
+Figure 10. 
+1
+HNMR of the compounds 10, 11, and the polymer 
+repeat unit mimic 12. 
+5 
+ 
+charge. This results in the formation of regioisomer II. It is likely 
+to  assume,  therefore,  that  under  present  conditions,  the 
+bifunctional polymer repeat units are composed of regioisomer I. 
+To experimentally confirm this notion, a model compound study 
+10 
+was conducted. In this study, it was decided to prepare an isomer 
+I  mimic  of  the  bifunctional  polymer  repeat  unit  starting  from  a 
+nonepoxide  precursor  so  as  to  have  no  ambiguity  about  its 
+structure.  To  achieve  this,  the  bromine  group  of  compound 10 
+was displaced by thiol 4 (Scheme 6). The hydroxyl groups of 11 
+15 
+were then modified through an esterification reaction with acetic 
+acid. This led to the formation of compound 12. The arrangement 
+of  the  functional  group  in  this molecule  was  identical  to  regio
+isomer I. The most significant proton resonance of 12 is perhaps 
+from  the  proton  located  at  the  tertiary  carbon  atom  (designated 
+20 
+‘b’ in Figure 10). This signal could be observed at 5.1 ppm.  A 
+comparison with the 
+1
+HNMR of the bifunctional polymer  
+Scheme 7. Synthesis of a regioisomer II. 
+ 
+Figure 11.
+ 1
+HNMR of the compounds 11 and 15. 25 
+ 
+Figure 12. 
+1
+HNMR of the polymer 9 and compounds 12 and 16. 
+ 
+revealed  that  this  proton  resonated  at  nearly  the  same  position. 
+This suggested that the repeat unit of polymer 9 was composed of 
+30 
+regioisomer I. However, to further prove this, a small molecule 
+mimicking  the  structure  of  the  regioisomer  II  was synthesized 
+(Scheme  7).  In  this  scheme,  newly  prepared  compound 15 
+represented a mimic of regioisomer II and could be compared to 
+compound 11 that represented the mimic of regioisomer I. This 
+35 
+comparison revealed that the proton located at the tertiary carbon 
+atom resonated at 2.9 ppm in the case of regioisomer II (Figure 
+11). No such signal could be seen in the 
+1
+HNMR of polymer 5 
+indicating that thiolepoxy reaction on polymer 3 did not produce 
+Page 7 of 10Polymer Chemistry
+
+ 
+8  |  Journal Name, [year], [vol], 00–00 This journal is © The Royal Society of Chemistry [year] 
+any  regioisomer  II.  To  further  confirm  this,  molecule 15  was 
+esterified  with  acetic  acid  because  both of  these  hydroxyl  units 
+are  present  as  an  ester  group  in  the  final  bifunctional  polymer 
+structure. A comparison could then be performed in the 
+1
+HNMR 
+spectra of polymer 9 and molecules 12 and 16 (Figure 12). This 
+5 
+comparison established that the repeat unit of the bifunctionalized 
+structure resembled mimic I (12). It can be concluded, therefore, 
+that  the  thiolepoxy  reaction  in  the  present  system  exclusively 
+forms regioisomer I. 
+Transformation into an Amphipathic Structure 10 
+Polymers carrying a positively charged site and a lipophile may 
+display  antibacterial  and  cell  penetration  properties.
+7071
+  In  the 
+present  case,  the  two  active  residues  will  reside  on  the  same 
+repeat  unit.  To  demonstrate  this,  the tBoc  group  of  polymer 9 
+was removed under acidic conditions at room temperature in one 
+15 
+hour of reaction time (Scheme 8). The signal arising from the t
+Boc group at 1.5 ppm completely disappeared after the reaction 
+and  suggested  complete  removal  of  the  protective  group.  This 
+resulted in the formation of the ammonium group at each polymer 
+repeat  unit.  The  signal  from  the  ammonium  group  could  be 
+20 
+observed at 8.2 ppm in deuterated dimethysulfoxide (Figure 13). 
+The  transformation  of  the  completely  neutral  polymer 9  into  a 
+cationic polymer 17 imparted water solubility to the material. The 
+1
+HNMR, therefore, could also be measured in deuterated water. 
+In  water,  the  signal  arising  from  the  ammonium  group 25 
+disappeared due to a fast exchange of the protons with deuterium 
+(Figure 13). 
+ 
+Scheme  8.  Removal  of  the tBoc  group  and  preparation  of 
+amphipathic homopolymer 17. 
+30 
+ 
+Figure 13. 
+1
+HNMR of the amphipathic polymer 17 in deuterated 
+DMSO  and  water.  Residual  solvent  signals  are  marked  with  an 
+asterisk. 
+Conclusions 35 
+The conclusions drawn from this work can be listed as follows. 
+1.  TBAF  in  THF,  and  LiOH  in  aqueous  THF  (10%  water)  are 
+good  catalyst  choices  for  thiolepoxy  reactions  involving 
+aliphatic and aromatic thiols. 
+2. Low conversions are observed at a TBAF loading of 1.23.6 
+40 
+mol% for reaction times of 13 hours. An increase in the catalyst 
+loading to 5.98% results in significant conversions (up to 85%).  
+Longer  reaction  times  (12  h)  do  not  improve  the  extent  of 
+reaction. Rather, an increase in the catalyst loading to 20.7 mol% 
+is  required  to  achieve  a  quantitative  conversion  of  the  epoxy 45 
+groups into the targeted thioethers in a reaction time of 3 h. 
+3.  LiOH  is  the  best  catalyst  as  quantitative  conversions  are 
+obtained at a catalyst loading of 1.23.6 mol% and a reaction time 
+of 13 hours.  
+4.  TEA  can  be  employed  in  THF  as  a  catalyst  while  using 50 
+aromatic thiols. However, high catalyst loading (34.4%) and long 
+reaction times (12 h) are required for quantitative conversions at 
+room temperature. 
+5. TEA can also be used in the case of aliphatic thiols, however, 
+even higher catalyst loading (6881%), higher thiol content (1.5
+55 
+1.75 eq./epoxy unit), higher temperature (50 ºC), and DMSO as a 
+reaction  medium  are  necessary  for  achieving  high  conversions 
+(≥85%). 
+6.  The  secondary  hydroxyl  units  can  be  converted  into  desired 
+ester functionalities. However, an excess of the activated acid (2 
+60 
+eq./OH)  is  required  to  achieve  quantitative  hydroxyl  group 
+conversion. 
+7.  Area  integration  analysis  (
+1
+HNMR)  and  elemental  analysis 
+suggests that structurally precise bifunctionalized homopolymers, 
+carrying a 1:1 functionality ratio per polymer repeat unit, can be 
+65 
+obtained  through  sequential  thiolepoxy  and  esterification 
+reactions  starting  from  a  general  poly(glycidyl  methacrylate)
+based reactive scaffold. 
+8. A careful model compound study suggested that the attack of 
+the thiolate anion occurs at the least hindered carbon atom of the 
+70 
+pending  glycidyl  unit  of  the  polymer  chain  and  regioisomer  I 
+forms  exclusively  upon  thiolepoxy  functionalization  in  the 
+present synthetic scheme.  
+It  is  anticipated  that  these  guidelines  will  help  the  researchers 
+interested  in  employing  the  thiolepoxy  reaction  for  polymer 
+75 
+synthesis  (from  small  molecules)  as  well  as  for  single  post
+polymerization   modification   purposes.   More   importantly, 
+realization  that  doublemodifications  involving  the  thiolepoxy 
+and the esterification reaction of a general and easily accessible 
+polymer  scaffold  can  produce  chemically  precise  materials  in  a 
+80 
+facile manner is expected to assist in further expanding their use 
+and ascertaining their new properties and applications. 
+ 
+Financial   support   from   SNSF   and   ETH   is   gratefully 
+acknowledged. AK thanks  A. D. Schlüter (ETHZ)  for support. 
+85 
+MCS   acknowledges   financial   support   from   Nanyang 
+Technological University (NTU), Singapore. 
+Notes and references 
+a
+ Department of Materials, ETH-Zürich, CH-8093 Zürich, Switzerland. 
+Fax: 41 44 633 1390; Tel: 41 44 633 6474; E-mail: 
+90 
+anzar.khan@mat.ethz.ch 
+Page 8 of 10Polymer Chemistry
+
+ 
+This journal is © The Royal Society of Chemistry [year] Journal Name, [year], [vol], 00–00  |  9 
+b
+ Division of Chemistry and Biological Chemistry, School of Physical and 
+Mathematical Sciences, and School of Materials Science and 
+Engineering, Nanyang Technological University, Singapore  
+ 
+† Electronic  Supplementary  Information  (ESI)  available:  [synthesis  and 5 
+characterization details are provided]. See DOI: 10.1039/b000000x/ 
+ 
+1   C. K. Ober, S.  Z. D. Cheng, P. T.  Hammond, M. Muthukumar, E. 
+Reichmanis, K. L. Wooley and T. P. Lodge, Macromolecules, 2009, 
+42, 465–471. 
+10 
+ 2   (a) C. J. Hawker and K. L. Wooley, Science, 2005, 309, 1200–1205; 
+(b) M. J. Kade, D. J. Burke and C. J. Hawker, J. Polym. Sci. Part A: 
+Polym. Chem., 2010, 48, 743–750; (c) C. J. Hawker, V. V. Fokin, M. 
+G. Finn and K. B. Sharpless, Aust. J. Chem., 2007, 60, 381–383. 
+ 3   (a)  T.  L.  Mindt,  C.  Muller,  F.  Stuker,  J.F.  Salazar,  A.  Hohn,  T. 
+15 
+Mueggler, M.  Rudin and R. Schibli, Bioconjugate Chem., 2009, 20, 
+1940–1949;  (b)  X.  Li,  J.  Guo,  J.  Asong,  M.  A.  Wolfert  and  G.J. 
+Boons, J. Am. Chem. Soc., 2011, 133, 11147–11153; (c) D. M. Beal 
+and L. H. Jones, Angew. Chem. Int. Ed., 2012, 51, 6320–6326. 
+ 4    L. Li, X.X. Deng, Z.L. Li, F.S. Du and Z.C. Li, Macromolecules, 
+20 
+2014, 47, 4660–4667. 
+ 5   M.  Lillethorup,  K.  Shimizu,  N.  Plumeré,  S.  U.  Pedersen  and  K. 
+Daasbjerg, Macromolecules, 2014, 47, 5081–5088. 
+ 6   J. M. Spruell, M. Wolffs, F. A. Leibfarth, B. C. Stahl, J. Heo, L. A. 
+Connal,  J.  Hu  and  C.  J.  Hawker, J.  Am.  Chem.  Soc.,  2011, 133, 
+25 
+16698. 
+7    Functional Polymers by PostPolymerization Modification; P. Theato 
+and  H.A.  Klok,  Eds.;  WileyVCH  Verlag  GmbH  &  Co.  KGaA: 
+Weinheim, Germany. 
+8     K. A. Günay, P. Theato and H.A. Klok, J. Polym. Sci. Part A: 
+30 
+Polym. Chem., 2013, 51, 1–28. 
+9   M. A. Gauthier, M. I. Gibson and H.A. Klok, Angew. Chem. Int. Ed., 
+2009, 48, 48–58. 
+10  K.A.  Günay,  P.  Theato  and  H.A.  Klok,  History  of  Post
+Polymerization  Modification.  In  functional  Polymers  by  Post
+35 
+Polymerization Modification: Concepts, Guidelines, and applications, 
+1st ed.; P. Theato and H.A. Klok, Eds.; WileyVCH Verlag GmbH 
+& Co. KGaA: Weinheim, Germany, 2013; pp. 1–44. 
+11   A. S. Goldmann, M. Glassner, A. J. Inglis and C. BarnerKowollik, 
+Macromol. Rapid Commun., 2013, 34, 810–849. 
+40 
+12   R. K. Iha, K. L. Wooley, A. M. Nystrom, D. J. Burke, M. J. Kade and 
+C. J. Hawker, Chem. 
+   Rev., 2009, 109, 5620–5686. 
+13   A. Sanyal, Macromol. Chem. Phys., 2010, 211, 1417–1425. 
+14   H. Durmaz, A. Sanyal, G. Hizal and U. Tunca, Polym. Chem., 2012, 
+45 
+3, 825–835. 
+15   G.  Hizal,  U.  Tunca  and  A.  Sanyal, J. Polym. Sci. Part A: Polym. 
+Chem., 2011, 49, 4103–4120. 
+16   W.  H.  Binder  and  R.  Sachsenhofer, Macromol.  Rapid  commun., 
+2007, 28, 15–54. 
+50 
+17   E. B. Maren and M. L. David, Polym. Chem., 2012, 3, 66–80. 
+18   T.  Szakács  and  B.  Iván, Polymer Degradation and Stability,  2004, 
+85, 1035–1039. 
+19   (a)   M.   Malkoch,   R.   J.   Thibault,   E.   Drockenmuller,   M. 
+Messerschmidt,  B.  Voit,  T.  P.  Russell  and  C.  J.  Hawker, J.  Am. 
+55 
+Chem.  Soc., 2005, 127,  14942–14949;  (b)  M.  Malkoch,  K. 
+Schleicher, E. Drockenmuller, C. J. Hawker, T. P. Russell, P. Wu and 
+V. V. Fokin, Macromolecules, 2005, 38, 3663–3678; (c) P. Wu, M. 
+Malkoch,  J.  N.  Hunt, R.  Vestberg,  E.  Kaltgrad, M.  G.  Finn,  V.  V. 
+Fokin,  K.  B.  Sharpless  and  C.  J.  Hawker, Chem. Commun.,  2005, 
+60 
+5775–5777. 
+20   S. Ghosh, S. Basu and S. Thayumanavan, Macromolecules, 2006, 39, 
+5595–5597. 
+21   (a) S. K. Yang and M. Weck, Macromolecules, 2008, 41, 346–351; 
+(b) S. K. Yangab and M. Weck, Soft. Matter., 2009, 5, 582–585. 
+65 
+22   K. Nilles and P. Theato, J. Polym. Sci. Part A: Polym. Chem., 2010, 
+48, 3683–3692.  
+23   N. Cengiz, H. Kabadayioglu and R. Sanyal, J. Polym. Sci. Part A: 
+Polym. Chem., 2010, 48, 4737–4746.  
+24   G.T. Chen, C.H. Wang, J.G. Zhang, Y. Wang, R. Zhang, F.S. Du, 
+70 
+N. Yan, Y. Kou and Z.C. Li, Macromolecules, 2010, 43, 9972–9981. 
+25   (a) A. Dag, H. Sahin, H. Durmaz, G. Hiza and U. Tunca, J. Polym. 
+Sci.  Part  A:  Polym.  Chem.,  2011, 49,  886–892;  (b)  N.  Cakir,  M. 
+Yavuzarslan, H. Durmaz, G. Hizal and U. Tunca, J. Polym. Sci. Part 
+A: Polym. Chem., 2013, 51, 899–907. 
+75 
+26   N. T. Brummelhuis and M. Weck, ACS Macro Lett., 2012, 1, 1216–
+1218. 
+27   A. Saha, S. De, M. C. Stuparu and A. Khan, J. Am. Chem. Soc. 2012, 
+134, 17291–17297. 
+28   X.X.  Deng,  L.  Li,  Z.L.  Li,  A.  Lv,  F.S.  Du  and  Z.C.  Li, ACS 
+80 
+Macro Lett., 2012, 1, 1300–1303. 
+29   P. Espeel, F.  Goethals, M. M. Stamenović, L. Petton and F. E. Du 
+Prez, Polym. Chem., 2012, 3, 1007–1015. 
+30   S. De, C. Stelzer and A. Khan, Polym. Chem., 2012, 3, 2342–2345. 
+31   Y. Li, H. T. T. Duong, M. W. Jones, J. S. Basuki, J. Hu, C. Boyer and 
+85 
+T. P. Davis, ACS Macro Lett., 2013, 2, 912–917. 
+32   S. Reinicke, P. Espeel, M. M. Stamenović and F. E. Du Prez, ACS 
+Macro Lett., 2013, 2, 539–543. 
+33   R. Kakuchi and P. Theato, ACS Macro Lett., 2013, 2, 419–422. 
+34   A. Lv, X.X. Deng, L. Li, Z.L. Li, Y.Z. Wang, F.S. Du and Z.C. 
+90 
+Li, Polym. Chem., 2013, 4, 3659–3662. 
+35   S. Gokhale, Y. Xu and A. Joy, Biomacromolecules, 2013, 14, 2489–
+2493. 
+36   Y. Chen, P. Espeel, S. Reinicke, F. E. Du Prez and M. H. Stenzel, 
+Macromol. Rapid Commun., 2014, 35, 1128−1134. 95 
+37   R. Kakuchi and P. Theato, Polym. Chem., 2014, 5, 2320−2325. 
+38  R.  C.  Li,  J.  Hwang  and  H.  D.  Maynard, Chem.  Commun.,  2007, 
+3631−3633. 
+39   E. M. Kolonko, J. K. Pontrello, S. L. Mangold and L. L. Kiessling, J. 
+Am. Chem. Soc., 2009, 131, 7327–7333. 
+100 
+40   I. Gadwal and A. Khan, Polym. Chem., 2013, 4, 2440−2444. 
+41   L. Li, X.W. Kan, X.X. Deng, C.C. Song, F.S. Du and Z.C. Li, J. 
+Polym. Sci. Part A: Polym. Chem., 2013, 51, 865−873. 
+42   M. P. Robin, M. W. Jones, D. M. Haddleton and R. K. O’Reilly, ACS 
+Macro Lett.,  2012, 1, 222–226. 
+105 
+43   L.  M.  Campos,  K.  L.  Killops,  R.  Sakai,  J.  M.  J.  Paulusse,  D. 
+Damiron,  E.  Drockenmuller,  B.  W.  Messmore  and  C.  J.  Hawker, 
+Macromolecules, 2008, 41, 7063–7070. 
+44   (a) R. P. Quirk and D. L. Pickel, Polymer Science: A Comprehensive 
+Reference, 2012, 6, 351–412; (b) M. A. Tasdelen, M. U. Kahveci and 
+110 
+Y. Yagci, Progress in Polymer Science, 2005, 36, 455–567; (c) F. L. 
+Verso  and  C.  N.  Likos, Polymer,  2008, 49,  1425–1434;  (d)  U. 
+Mansfeld, C. Pietsch, R. Hoogenboom, R. Becer and U. S. Schubert, 
+Polym. Chem.,  2010, 1, 1560–1598;  (e)  U.  Schulze,  T.  Fónagy,  H. 
+Komber, G. Pompe, J. Pionteck and B. Iván, Macromolecules, 2003, 
+115 
+36, 4719–4726; (f) A. Szanka, G. Szarka and B. Iván, Polymer, 2013, 
+54, 6073–6077. 
+45   R. Duncan and L.  Izzo, Adv. Drug Delivery Rev., 2005, 57, 2215–
+2237. 
+46   J. B. Uprety, J. F. Reuther and B. M. Novak, Macromolecules, 2012, 
+120 
+45, 8155–8165. 
+47   K. A. McEwan, S. Slavin, E. Tunnah and D. M. Haddleton, Polym. 
+Chem., 2013, 4, 2608–2614. 
+48   J. A. Johnson, Y. Y. Lu, A. O. Burts, Y.H. Lim, M. G. Finn, J. T. 
+Koberstein, N. J. Turro, D. A. Tirrell and R. H. Grubbs, J. Am. Chem. 
+125 
+Soc., 2011, 133, 559–566. 
+49   R. Kakuchi and P. Theato, ACS Macro Lett., 2014, 3, 329–332. 
+50   Y.  Zhang,  Y.  Zhao,  B.  Yang, C.  Zhu,  Y.  Wei  and L.  Tao, Polym. 
+Chem., 2014, 5, 1857–1862. 
+51   (a) A. Sehlinger, O. Kreye and A. R. Meier, Macromolecules, 2013, 
+130 
+46, 6031–6037; (b) O. Kreye, T. Tóth and M. A. R. Meier, J. Am. 
+Chem.  Soc.,  2011, 133,  1790–1792;  (c)  A.  Sehlinger,  P.K. 
+Dannecker,  O.  Kreye  and  M.  A.  R.  Meier, Macromolecules,  2014, 
+47, 2774–2783; (d) O. Kreye, O. Türünç, A. Sehlinger, J. Rackwitz 
+and M. A. R. Meier, Chem. Eur. J., 2012, 18, 5767–5776. 
+135 
+52   S. De and A. Khan, Chem. Commun., 2012, 48, 3130–3132. 
+53   I. Gadwal, J. Rao, J. Baettig and A. Khan, Macromolecules, 2014, 47, 
+35–40.  
+54   C. Buerkli, S. H. Lee, E. Moroz, M. C. Stuparu, J.C. Leroux and A. 
+Khan, Biomacromolecules, 2014, 15, 1707–1715.   140 
+Page 9 of 10Polymer Chemistry
+
+ 
+10  |  Journal Name, [year], [vol], 00–00 This journal is © The Royal Society of Chemistry [year] 
+55   J. S. Basuki, L. Esser, H. T. T. Duong, Q. Zhang, P. Wilson, M. R. 
+Whittaker, D. M. Haddleton, C. Boyer and T. P. Davis, Chem. Sci., 
+2014, 5, 715–726. 
+56   Q. Zhang, A. Anastasaki, G.Z. Li, A. J. Haddleton, P. Wilson and D. 
+M. Haddleton, Polym. Chem., 2014, 5, 3876–3883. 5 
+57   S. Li, J. Han and C. Gao, Polym. Chem., 2013, 4, 1774–1787. 
+58   M.L. Neindre and R. Nicolaÿ, Polym. Int., 2014, 63, 887–893. 
+59   The  thiolepoxy  reaction  has  also  been  used  for  the  preparation  of 
+polymers  and  networks  starting  from  small  molecular  building 
+blocks: (a) A. Brändle and A. Khan, Polym. Chem., 2012, 3, 3224–
+10 
+3227;  (b)  N.  Cengiz,  J.  Rao,  A.  Sanyal  and  A.  Khan, Chem. 
+Commun.,  2013, 49,  11191–11193;  (c)  S.  Binder,  I.  Gadwal,  A. 
+Bielmann and A. Khan, J. Polym. Sci. Part A: Polym. Chem., 2014, 
+52, 2040–2046; (d)  I. Gadwal, S. Binder, M. C. Stuparu, A. Khan, 
+Macromolecules, 2014, 47, 5070–5080. 
+15 
+60   J.  D.  Gough,  J.  M.  Gargano,  A.  E.  Donofrio,  W. J.  Lees, 
+Biochemistry, 2003, 42, 11787–11797. 
+61   D. J. Hupe and W. P. Jencks, J. Am. Chem. Soc., 1977, 99, 451–464. 
+62   W. Reeve, C. M. Erikson and P. F. Aluotto, Can. J. Chem., 1979, 57, 
+2747–2754. 
+20 
+63   (a) F. S. Gungor and B. Kiskan, Reactive and Functional Polymers, 
+2014, 75,  51–55;  (b)  B.  Hanbeyoglu,  B.  Kiskan  and  Y.  Yagci, 
+Macromolecules, 2013, 46, 8434–8440; (c) A. Musa, B. Kiskan and 
+Y. Yagci, Polymer, 2014, DOI:10.1016/j.polymer.2014.06.076. 
+64   For selected examples, please see: (a) Y. Ma, H. Gao, W. Gu, Y.W. 
+25 
+Yang, Y. Wang, Y. Fan, G. Wu and J. Ma, Eur. J. Pharm. Sci., 2012, 
+45, 65–72; (b) W. Gu, Y. Ma, C. Zhu, B. Chen, J. Ma and H. Gao, 
+Eur. J. Pharm. Sci., 2012, 47, 556–563; (c)  L. Wang, Y.W. Yang, 
+M. Zhu, G. Qiu, G. Wuc and H. Gao, RSC Adv., 2014, 4, 6478–6485; 
+(d)  C.  M.  Alexander,  M.  M.  Maye  and  J.  C.  Dabrowiak, Chem. 
+30 
+Commun., 2011, 47, 3418–3420; (e) G. Bitan and D. B. Teplow, Acc. 
+Chem. Res., 2004, 37, 357–364; (f) Z. Liang, X. Wu, Y.W. Yang, C. 
+Li, G. Wu and H. Gao, Polym. Chem., 2013, 4, 3514–3523; (g) C. Li, 
+Y.W. Yang, Z. Liang, G.l. Wu and H. Gao, Polym. Chem., 2013, 4, 
+4366–4374; (h) F. J. Xu, Y. Zhu, M. Y. Chai and F. S.  Liu, Acta. 
+35 
+Biomater., 2011, 7, 3131–3140.  
+65   For an excellent review article on applications and assembly aspects 
+of poly(glycidyl methacrylate) derivatives, please see: Q.L. Li, W.
+X.   Gu,   H.   Gao   and   Y.W.   Yang, Chem.  Commun., 
+DOI:10.1039/c4cc03036b. 
+40 
+66   For synthesis of welldefined polyglycidyl methacrylates, please see: 
+(a)  N.  V.  Tsarevsky,  S.  A.  Bencherif  and  K.  Matyjaszewski, 
+Macromolecules, 2007, 40, 4439–4445; (b) M. Rodlert, E. Harth, I. 
+Rees and C. J. Hawker, J. Polym. Sci. Part A: Polym. Chem., 2000, 
+38, 4749–4763; (c) D. Damiron, J. Mazzolini, F. Cousin, C. Boisson, 
+45 
+F. D’Agosto and E. Drockenmuller, Polym. Chem., 2012, 3, 1838–
+1845; (d) A. Moayeri, B. Lessard and M. Maric, Polym. Chem., 2011, 
+2, 2084–2092; (e) P. F. Caňamero, J. L. de la Fuente, E. L. Madruga 
+and M. FernándezGarcía, Macromol. Chem. Phys., 2004, 205, 2221–
+2228; (f) C. S. Gudipati, M. B. H. Tan, H. Hussain, Y. Liu, C. He and 
+50 
+T. P. Davis, Macromol. Rapid Commun., 2008, 29, 1902–1907; (g) 
+Q.  Zhang,  S.  Slavin,  M.  W.  Jones,   A.  J. Haddleton and   D.  M. 
+Haddleton, Polym. Chem.,  2012, 3,  1016–1023;  (h)  A.  Hayek,   Y. 
+Xu,  T. Okada,  S. Barlow, X. Zhu, J. H. Moon, S. R. Marder and S. 
+Yang, J. Mater. Chem., 2008, 18, 3316–3318; (i) B. Zhang,  Y. Li, P. 
+55 
+Ai, Z. Sa, Y. Zhao, M. Li, D. Wang and K. Sha, J. Polym. Sci. Part 
+A: Polym. Chem., 2009, 47, 5509–5526; (j) R. París, M. Liras and I. 
+QuijadaGarrido, Macromol. Chem. Phys., 2011, 212, 1859–1868; (k) 
+H. Zhu, Q. Liu and Y. Chen, Langmuir, 2007, 23, 790–794; (l) M. 
+Ma,   F.  Li,   F.j.  Chen, S.X. Cheng  and  R.X.  Zhuo, Macromol. 
+60 
+Biosci., 2010, 10, 183–191. 
+67   K. Matyjaszewski and J. Xia, Chem. Rev., 2001, 101, 2921–2990. 
+68   D.  Albanese,  D.  Landini  and  M.  Penso, Synthesis-Stuttgart,  1994, 
+34–36. 
+69   N.  Azizi,  A.  KhajehAmiri,  H.  Ghafuri  and  M.  Bolourtchian, 
+65 
+Phosphorous, Sulfur, and Silicon, 2010, 185, 1550–1557. 
+70   (a)  A.  Som,  A.  O.  Tezgel,  G.  J.  Gabriel  and  G.  N.  Tew, Angew. 
+Chem. Int. Ed., 2011, 50, 6147–6150; (b) A. O. Tezgel, G. Gonzalez
+Perez, J. C. Telfer, B. A. Osborne, L. M. Minter and G. N. Tew, Mol. 
+Ther., 2013, 21, 201–20; (c) A. Hennig, G. J. Gabriel, G. N. Tew and 
+70 
+S. Matile, J. Am. Chem. Soc., 2008, 130, 10338–10344; (d) A. Som, 
+A. Reuter and G. N. Tew, Angew. Chem. Int. Ed., 2012, 51, 980–983. 
+71   (a) Y. Chen, P. A. Wilbon, Y. P. Chen, J. Zhou, M. Nagarkatti, C. 
+Wang, F. Chu, A. W. Decho and C. Tang, RSC Adv., 2012, 2, 10275–
+10282; (b) J. Wang, Y. P. Chen, K. Yao, P. A. Wilbon, W. Zhang, L. 75 
+Ren, J. Zhou, M. Nagarkatti, C. Wang, F. Chu, X. He, A. W. Decho 
+and  C.  Tang, Chem.  Commun.,  2012, 48,  916–918;  (c)  M.  S. 
+Ganewatta,  Y.  P.  Chen,  J.  Wang,  J.  Zhou,  J.  Ebalunode,  M. 
+Nagarkatti, A. W. Decho and C. Tang, Chem. Sci., 2014, 5, 2011–
+2016. 
+80 
+Page 10 of 10Polymer Chemistry
