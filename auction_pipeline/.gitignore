@@ -1,0 +1,17 @@
+# 자격증명 (절대 커밋 금지)
+.env
+
+# 생성 결과물 (대용량, 재생성 가능)
+assets/
+output/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 개발 도구
+.vscode/
+*.swp
